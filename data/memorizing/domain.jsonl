@@ -1,0 +1,50 @@
+{"uuu": {"spouse": "[X]'s spouse is [Y] ."}, "xxx": ["person"]}
+{"uuu": {"inflows": "[X] inflows [Y] ."}, "xxx": ["body of water"]}
+{"uuu": {"father": "[X]'s father is [Y] ."}, "xxx": ["person"]}
+{"uuu": {"head of government": "[X]'s government is headed by [Y] ."}, "xxx": ["country"]}
+{"uuu": {"home venue": "[X]'s home stadium is [Y] ."}, "xxx": ["sports team"]}
+{"uuu": {"architect": "[X]'s architect is [Y] ."}, "xxx": ["architectural structure"]}
+{"uuu": {"developer": "[X]'s developer is [Y] ."}, "xxx": ["work"]}
+{"uuu": {"home port": "[X]'s home port is [Y] ."}, "xxx": ["ship"]}
+{"uuu": {"author": "[X]'s author is [Y] ."}, "xxx": ["work"]}
+{"uuu": {"judge": "[X]'s judge is [Y] ."}, "xxx": ["Legal Case"]}
+{"uuu": {"based on": "[X] is based on [Y] ."}, "xxx": ["work"]}
+{"uuu": {"family": "[X]'s family is [Y] ."}, "xxx": ["person"]}
+{"uuu": {"presenter": "[X] is hosted by [Y] ."}, "xxx": ["television show"]}
+{"uuu": {"chief executive officer": "[X]'s chief executive officer is [Y] ."}, "xxx": ["organisation"]}
+{"uuu": {"has subsidiary": "[X]'s subsidiary is [Y] ."}, "xxx": ["company"]}
+{"uuu": {"doctoral student": "[X]'s doctoral student is [Y] ."}, "xxx": ["scientist"]}
+{"uuu": {"place of death": "[X] died in [Y] ."}, "xxx": ["animal"]}
+{"uuu": {"industry": "[X]'s specific industry is [Y] ."}, "xxx": ["company"]}
+{"uuu": {"constellation": "[X] is part of constellation [Y] ."}, "xxx": ["celestial body"]}
+{"uuu": {"illustrator": "[X] is illustrated by [Y] ."}, "xxx": ["written work"]}
+{"uuu": {"composer": "[X]'s composer is [Y] ."}, "xxx": ["work"]}
+{"uuu": {"employer": "[X] is an employer of [Y] ."}, "xxx": ["person"]}
+{"uuu": {"curator": "[X]'s curator is [Y] ."}, "xxx": ["museum"]}
+{"uuu": {"place of burial": "[X] is buried in [Y] ."}, "xxx": ["person"]}
+{"uuu": {"country of citizenship": "[X] is a citizen of [Y] ."}, "xxx": ["person"]}
+{"uuu": {"member of sports team": "[X] played for [Y] ."}, "xxx": ["person"]}
+{"uuu": {"original language": "[X] was originally created in [Y] ."}, "xxx": ["work"]}
+{"uuu": {"mother": "[X]'s mother is [Y] ."}, "xxx": ["person"]}
+{"uuu": {"dialect of": "[X] is a dialect of [Y] ."}, "xxx": ["language"]}
+{"uuu": {"place of birth": "[X] was born in [Y] ."}, "xxx": ["animal"]}
+{"uuu": {"rector": "[X]'s rector is [Y] ."}, "xxx": ["educational institution"]}
+{"uuu": {"headquarters location": "[X]'s headquarter is in [Y] ."}, "xxx": ["organisation"]}
+{"uuu": {"residence": "[X] lives in [Y] ."}, "xxx": ["person"]}
+{"uuu": {"has melody": "[X] has the melody of [Y] ."}, "xxx": ["work"]}
+{"uuu": {"military branch": "[X]'s service branch is [Y] ."}, "xxx": ["military person"]}
+{"uuu": {"educated at": "[X] is educated at [Y] ."}, "xxx": ["person"]}
+{"uuu": {"successful candidate": "[X]'s successful candidate is [Y] ."}, "xxx": ["election"]}
+{"uuu": {"continent": "[X] is located on the continent of [Y] ."}, "xxx": ["country"]}
+{"uuu": {"official language": "[X]'s offical language is [Y] ."}, "xxx": ["populated place"]}
+{"uuu": {"conflict": "[X] participated in conflict [Y] ."}, "xxx": ["person"]}
+{"uuu": {"parliamentary group": "[X] belongs to the party [Y] ."}, "xxx": ["person"]}
+{"uuu": {"killed by": "[X] was killed by [Y] ."}, "xxx": ["person"]}
+{"uuu": {"founded by": "[X] was founded by [Y] ."}, "xxx": ["organisation"]}
+{"uuu": {"streak color": "[X]'s streak color is [Y] ."}, "xxx": ["mineral"]}
+{"uuu": {"student": "[X]'s student is [Y] ."}, "xxx": ["person"]}
+{"uuu": {"child": "[X]'s child is [Y] ."}, "xxx": ["person"]}
+{"uuu": {"work location": "[X] used to work in [Y] ."}, "xxx": ["person"]}
+{"uuu": {"highest point": "[X]'s highest point is [Y] ."}, "xxx": ["settlement"]}
+{"uuu": {"cast member": "[X] has cast member [Y] ."}, "xxx": ["work"]}
+{"uuu": {"participating team": "[X]'s participating teams contain [Y] ."}, "xxx": ["sports event"]}

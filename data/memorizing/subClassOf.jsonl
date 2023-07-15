@@ -1,0 +1,721 @@
+{"uuu": "card game", "xxx": ["game", "activity"]}
+{"uuu": "Pilot", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "ship", "xxx": ["mean of transportation"]}
+{"uuu": "musical", "xxx": ["musical work", "work"]}
+{"uuu": "light novel", "xxx": ["novel", "book", "written work", "work"]}
+{"uuu": "written work", "xxx": ["work"]}
+{"uuu": "volleyball player", "xxx": ["athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "military aircraft", "xxx": ["aircraft", "mean of transportation"]}
+{"uuu": "lipid", "xxx": ["Biomolecule"]}
+{"uuu": "manga", "xxx": ["comic", "written work", "work"]}
+{"uuu": "personal event", "xxx": ["life cycle event", "event"]}
+{"uuu": "lieutenant", "xxx": ["politician", "person", "animal", "eukaryote", "species"]}
+{"uuu": "athletics", "xxx": ["sport", "activity"]}
+{"uuu": "movie", "xxx": ["work"]}
+{"uuu": "diocese", "xxx": ["clerical administrative region"]}
+{"uuu": "decoration", "xxx": ["award"]}
+{"uuu": "protohistorical period", "xxx": ["time period"]}
+{"uuu": "garden", "xxx": ["place"]}
+{"uuu": "engine", "xxx": ["device"]}
+{"uuu": "parish", "xxx": ["clerical administrative region"]}
+{"uuu": "ice hockey league", "xxx": ["sports league", "organisation", "agent"]}
+{"uuu": "cartoon", "xxx": ["work"]}
+{"uuu": "judge", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "swimmer", "xxx": ["athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "province", "xxx": ["governmental administrative region", "administrative region", "region", "populated place", "place"]}
+{"uuu": "aircraft", "xxx": ["mean of transportation"]}
+{"uuu": "streetcar", "xxx": ["mean of transportation"]}
+{"uuu": "deity", "xxx": ["agent"]}
+{"uuu": "parliament", "xxx": ["organisation", "agent"]}
+{"uuu": "digital camera", "xxx": ["camera", "device"]}
+{"uuu": "micro region", "xxx": ["governmental administrative region", "administrative region", "region", "populated place", "place"]}
+{"uuu": "combination drug", "xxx": ["drug", "chemical substance"]}
+{"uuu": "lake", "xxx": ["body of water", "natural place", "place"]}
+{"uuu": "motor race", "xxx": ["race", "sports event", "societal event", "event"]}
+{"uuu": "golf tournament", "xxx": ["tournament", "sports event", "societal event", "event"]}
+{"uuu": "political function", "xxx": ["person function"]}
+{"uuu": "classical music artist", "xxx": ["person", "artist", "eukaryote", "species", "animal", "musical artist"]}
+{"uuu": "soccer league season", "xxx": ["sports team season", "sports season"]}
+{"uuu": "shopping mall", "xxx": ["building", "architectural structure"]}
+{"uuu": "polysaccharide", "xxx": ["Biomolecule"]}
+{"uuu": "Playboy Playmate", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "congressman", "xxx": ["politician", "person", "animal", "eukaryote", "species"]}
+{"uuu": "natural region", "xxx": ["region", "populated place", "place"]}
+{"uuu": "historical event", "xxx": ["societal event", "event"]}
+{"uuu": "priest", "xxx": ["cleric", "person", "animal", "eukaryote", "species"]}
+{"uuu": "military person", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "life cycle event", "xxx": ["event"]}
+{"uuu": "linguist", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "crustacean", "xxx": ["animal", "eukaryote", "species"]}
+{"uuu": "station", "xxx": ["infrastructure", "architectural structure"]}
+{"uuu": "darts player", "xxx": ["athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "file", "xxx": ["document", "work"]}
+{"uuu": "bacteria", "xxx": ["species"]}
+{"uuu": "national collegiate athletic association athlete", "xxx": ["athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "ideology", "xxx": ["topical concept"]}
+{"uuu": "sports manager", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "route stop", "xxx": ["station", "infrastructure", "architectural structure"]}
+{"uuu": "escalator", "xxx": ["on-site mean of transportation", "mean of transportation"]}
+{"uuu": "department", "xxx": ["governmental administrative region", "administrative region", "region", "populated place", "place"]}
+{"uuu": "bank", "xxx": ["company", "organisation", "agent"]}
+{"uuu": "route of transportation", "xxx": ["infrastructure", "architectural structure"]}
+{"uuu": "winery", "xxx": ["company", "organisation", "agent"]}
+{"uuu": "golf course", "xxx": ["sport facility", "architectural structure"]}
+{"uuu": "airline", "xxx": ["public transit system", "company", "organisation", "agent"]}
+{"uuu": "geological period", "xxx": ["time period"]}
+{"uuu": "Lawyer", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "rugby player", "xxx": ["athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "australian football league", "xxx": ["sports league", "organisation", "agent"]}
+{"uuu": "snooker world champion", "xxx": ["snooker player", "athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "Artificial Satellite", "xxx": ["Satellite", "celestial body", "place"]}
+{"uuu": "Wikimedia template", "xxx": ["Unknown"]}
+{"uuu": "enzyme", "xxx": ["Biomolecule"]}
+{"uuu": "mammal", "xxx": ["animal", "eukaryote", "species"]}
+{"uuu": "military conflict", "xxx": ["societal event", "event"]}
+{"uuu": "fungus", "xxx": ["eukaryote", "species"]}
+{"uuu": "manhwa", "xxx": ["comic", "written work", "work"]}
+{"uuu": "music director", "xxx": ["musical artist", "artist", "person", "animal", "eukaryote", "species"]}
+{"uuu": "religious", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "Sailor", "xxx": ["athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "planet", "xxx": ["celestial body", "place"]}
+{"uuu": "college", "xxx": ["educational institution", "organisation", "agent"]}
+{"uuu": "case", "xxx": ["unit of work"]}
+{"uuu": "politician", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "Reference", "xxx": ["Annotation", "written work", "work"]}
+{"uuu": "earthquake", "xxx": ["event", "natural event"]}
+{"uuu": "genre", "xxx": ["topical concept"]}
+{"uuu": "cave", "xxx": ["natural place", "place"]}
+{"uuu": "album", "xxx": ["musical work", "work"]}
+{"uuu": "Australian rules football player", "xxx": ["athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "mixed martial arts league", "xxx": ["sports league", "organisation", "agent"]}
+{"uuu": "museum", "xxx": ["building", "architectural structure"]}
+{"uuu": "governmental administrative region", "xxx": ["administrative region", "region", "populated place", "place"]}
+{"uuu": "region", "xxx": ["populated place", "place"]}
+{"uuu": "automobile engine", "xxx": ["engine", "device"]}
+{"uuu": "radio station", "xxx": ["broadcaster", "organisation", "agent"]}
+{"uuu": "Movie director", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "airport", "xxx": ["infrastructure", "architectural structure"]}
+{"uuu": "vicar", "xxx": ["cleric", "person", "animal", "eukaryote", "species"]}
+{"uuu": "auto racing league", "xxx": ["sports league", "organisation", "agent"]}
+{"uuu": "Pyramid", "xxx": ["architectural structure"]}
+{"uuu": "taxonomic group", "xxx": ["topical concept"]}
+{"uuu": "law firm", "xxx": ["company", "organisation", "agent"]}
+{"uuu": "ski resort", "xxx": ["ski area", "sport facility", "architectural structure"]}
+{"uuu": "Spy", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "poker player", "xxx": ["athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "surname", "xxx": ["name"]}
+{"uuu": "road junction", "xxx": ["route of transportation", "infrastructure", "architectural structure"]}
+{"uuu": "racing driver", "xxx": ["motorsport racer", "athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "artwork", "xxx": ["work"]}
+{"uuu": "prime minister", "xxx": ["politician", "person", "animal", "eukaryote", "species"]}
+{"uuu": "theatre", "xxx": ["venue", "building", "architectural structure"]}
+{"uuu": "continent", "xxx": ["populated place", "place"]}
+{"uuu": "basketball player", "xxx": ["athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "engineer", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "image", "xxx": ["document", "work"]}
+{"uuu": "horse race", "xxx": ["race", "sports event", "societal event", "event"]}
+{"uuu": "basketball team", "xxx": ["sports team", "organisation", "agent"]}
+{"uuu": "disney character", "xxx": ["fictional character", "agent"]}
+{"uuu": "Satellite", "xxx": ["celestial body", "place"]}
+{"uuu": "Windmill", "xxx": ["Mill", "architectural structure"]}
+{"uuu": "tennis player", "xxx": ["athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "project", "xxx": ["unit of work"]}
+{"uuu": "MouseGeneLocation", "xxx": ["GeneLocation"]}
+{"uuu": "Wind motor", "xxx": ["Mill", "architectural structure"]}
+{"uuu": "samba school", "xxx": ["organisation", "agent"]}
+{"uuu": "Theatre director", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "launch pad", "xxx": ["infrastructure", "architectural structure"]}
+{"uuu": "Historical country", "xxx": ["country", "populated place", "place"]}
+{"uuu": "coal pit", "xxx": ["mine", "place"]}
+{"uuu": "forest", "xxx": ["natural place", "place"]}
+{"uuu": "artery", "xxx": ["anatomical structure"]}
+{"uuu": "basketball league", "xxx": ["sports league", "organisation", "agent"]}
+{"uuu": "instrumentalist", "xxx": ["musical artist", "artist", "person", "animal", "eukaryote", "species"]}
+{"uuu": "waterway tunnel", "xxx": ["route of transportation", "infrastructure", "architectural structure"]}
+{"uuu": "music genre", "xxx": ["genre", "topical concept"]}
+{"uuu": "mountain pass", "xxx": ["natural place", "place"]}
+{"uuu": "cardinal", "xxx": ["cleric", "person", "animal", "eukaryote", "species"]}
+{"uuu": "locomotive", "xxx": ["mean of transportation"]}
+{"uuu": "animanga character", "xxx": ["comics character", "fictional character", "agent"]}
+{"uuu": "record label", "xxx": ["company", "organisation", "agent"]}
+{"uuu": "bone", "xxx": ["anatomical structure"]}
+{"uuu": "Academic Person", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "board game", "xxx": ["game", "activity"]}
+{"uuu": "curling league", "xxx": ["sports league", "organisation", "agent"]}
+{"uuu": "period of artistic style", "xxx": ["time period"]}
+{"uuu": "Mill", "xxx": ["architectural structure"]}
+{"uuu": "songwriter", "xxx": ["writer", "person", "animal", "eukaryote", "species"]}
+{"uuu": "contest", "xxx": ["competition", "event"]}
+{"uuu": "president", "xxx": ["politician", "person", "animal", "eukaryote", "species"]}
+{"uuu": "Painting", "xxx": ["artwork", "work"]}
+{"uuu": "Biathlete", "xxx": ["winter sport Player", "athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "administrative region", "xxx": ["region", "populated place", "place"]}
+{"uuu": "Noble family", "xxx": ["family", "agent"]}
+{"uuu": "cape", "xxx": ["natural place", "place"]}
+{"uuu": "team sport", "xxx": ["sport", "activity"]}
+{"uuu": "beach", "xxx": ["natural place", "place"]}
+{"uuu": "military structure", "xxx": ["architectural structure"]}
+{"uuu": "speedway league", "xxx": ["sports league", "organisation", "agent"]}
+{"uuu": "astronaut", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "castle", "xxx": ["building", "architectural structure"]}
+{"uuu": "tunnel", "xxx": ["architectural structure"]}
+{"uuu": "amphibian", "xxx": ["animal", "eukaryote", "species"]}
+{"uuu": "Port", "xxx": ["infrastructure", "architectural structure"]}
+{"uuu": "geopolitical organisation", "xxx": ["organisation", "agent"]}
+{"uuu": "bowling league", "xxx": ["sports league", "organisation", "agent"]}
+{"uuu": "person", "xxx": ["animal", "eukaryote", "species"]}
+{"uuu": "Historical province", "xxx": ["province", "governmental administrative region", "administrative region", "region", "populated place", "place"]}
+{"uuu": "sport facility", "xxx": ["architectural structure"]}
+{"uuu": "Team member", "xxx": ["athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "mountain", "xxx": ["natural place", "place"]}
+{"uuu": "city", "xxx": ["settlement", "populated place", "place"]}
+{"uuu": "valley", "xxx": ["natural place", "place"]}
+{"uuu": "comic", "xxx": ["written work", "work"]}
+{"uuu": "profession", "xxx": ["person function"]}
+{"uuu": "formula one racing", "xxx": ["sports league", "organisation", "agent"]}
+{"uuu": "sports event", "xxx": ["societal event", "event"]}
+{"uuu": "school", "xxx": ["educational institution", "organisation", "agent"]}
+{"uuu": "conveyor system", "xxx": ["on-site mean of transportation", "mean of transportation"]}
+{"uuu": "professor", "xxx": ["scientist", "person", "animal", "eukaryote", "species"]}
+{"uuu": "video game", "xxx": ["software", "work"]}
+{"uuu": "song", "xxx": ["musical work", "work"]}
+{"uuu": "restaurant", "xxx": ["building", "architectural structure"]}
+{"uuu": "golf player", "xxx": ["athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "soap character", "xxx": ["fictional character", "agent"]}
+{"uuu": "tennis league", "xxx": ["sports league", "organisation", "agent"]}
+{"uuu": "venue", "xxx": ["building", "architectural structure"]}
+{"uuu": "town", "xxx": ["settlement", "populated place", "place"]}
+{"uuu": "hospital", "xxx": ["building", "architectural structure"]}
+{"uuu": "lymph", "xxx": ["anatomical structure"]}
+{"uuu": "medician", "xxx": ["scientist", "person", "animal", "eukaryote", "species"]}
+{"uuu": "fashion", "xxx": ["topical concept"]}
+{"uuu": "hot spring", "xxx": ["natural place", "place"]}
+{"uuu": "Youtuber", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "Christian Doctrine", "xxx": ["Theological concept", "topical concept"]}
+{"uuu": "Sculpture", "xxx": ["artwork", "work"]}
+{"uuu": "canadian football Team", "xxx": ["sports team", "organisation", "agent"]}
+{"uuu": "handball league", "xxx": ["sports league", "organisation", "agent"]}
+{"uuu": "standard", "xxx": ["topical concept"]}
+{"uuu": "motocycle racer", "xxx": ["motorcycle rider", "athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "penalty shoot out", "xxx": ["event"]}
+{"uuu": "Hormone", "xxx": ["Biomolecule"]}
+{"uuu": "television host", "xxx": ["presenter", "person", "animal", "eukaryote", "species"]}
+{"uuu": "Capital of region", "xxx": ["city", "settlement", "populated place", "place"]}
+{"uuu": "vein", "xxx": ["anatomical structure"]}
+{"uuu": "archeologist", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "nerve", "xxx": ["anatomical structure"]}
+{"uuu": "bus company", "xxx": ["public transit system", "company", "organisation", "agent"]}
+{"uuu": "publisher", "xxx": ["company", "organisation", "agent"]}
+{"uuu": "historical period", "xxx": ["time period"]}
+{"uuu": "body of water", "xxx": ["natural place", "place"]}
+{"uuu": "amateur boxer", "xxx": ["boxer", "athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "movie genre", "xxx": ["genre", "topical concept"]}
+{"uuu": "archbishop", "xxx": ["Christian Bishop", "cleric", "person", "animal", "eukaryote", "species"]}
+{"uuu": "memorial", "xxx": ["monument", "architectural structure"]}
+{"uuu": "handball team", "xxx": ["sports team", "organisation", "agent"]}
+{"uuu": "cultivated variety", "xxx": ["plant", "eukaryote", "species"]}
+{"uuu": "DTM racer", "xxx": ["racing driver", "motorsport racer", "athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "cycling competition", "xxx": ["sports event", "societal event", "event"]}
+{"uuu": "borough", "xxx": ["governmental administrative region", "administrative region", "region", "populated place", "place"]}
+{"uuu": "train station", "xxx": ["station", "infrastructure", "architectural structure"]}
+{"uuu": "bridge", "xxx": ["route of transportation", "infrastructure", "architectural structure"]}
+{"uuu": "curler", "xxx": ["winter sport Player", "athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "artist discography", "xxx": ["musical work", "work"]}
+{"uuu": "writer", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "chancellor", "xxx": ["politician", "person", "animal", "eukaryote", "species"]}
+{"uuu": "Organisation member", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "company", "xxx": ["organisation", "agent"]}
+{"uuu": "trade union", "xxx": ["organisation", "agent"]}
+{"uuu": "Rebbe", "xxx": ["religious", "person", "animal", "eukaryote", "species"]}
+{"uuu": "international organisation", "xxx": ["organisation", "agent"]}
+{"uuu": "canoeist", "xxx": ["athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "biologist", "xxx": ["scientist", "person", "animal", "eukaryote", "species"]}
+{"uuu": "bullfighter", "xxx": ["athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "family", "xxx": ["agent"]}
+{"uuu": "territory", "xxx": ["populated place", "place"]}
+{"uuu": "space mission", "xxx": ["societal event", "event"]}
+{"uuu": "novel", "xxx": ["book", "written work", "work"]}
+{"uuu": "tax", "xxx": ["topical concept"]}
+{"uuu": "sport", "xxx": ["activity"]}
+{"uuu": "fern", "xxx": ["plant", "eukaryote", "species"]}
+{"uuu": "cat", "xxx": ["mammal", "animal", "eukaryote", "species"]}
+{"uuu": "tram station", "xxx": ["station", "infrastructure", "architectural structure"]}
+{"uuu": "baronet", "xxx": ["British royalty", "royalty", "person", "animal", "eukaryote", "species"]}
+{"uuu": "tower", "xxx": ["architectural structure"]}
+{"uuu": "Outbreak", "xxx": ["event"]}
+{"uuu": "cricket team", "xxx": ["sports team", "organisation", "agent"]}
+{"uuu": "election", "xxx": ["societal event", "event"]}
+{"uuu": "Record Office", "xxx": ["non-profit organisation", "organisation", "agent"]}
+{"uuu": "Latter Day Saint", "xxx": ["religious", "person", "animal", "eukaryote", "species"]}
+{"uuu": "career station", "xxx": ["time period"]}
+{"uuu": "Controlled designation of origin wine", "xxx": ["wine", "beverage", "Food"]}
+{"uuu": "fort", "xxx": ["military structure", "architectural structure"]}
+{"uuu": "mountain range", "xxx": ["natural place", "place"]}
+{"uuu": "lacrosse player", "xxx": ["athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "motorcycle racing league", "xxx": ["sports league", "organisation", "agent"]}
+{"uuu": "article", "xxx": ["written work", "work"]}
+{"uuu": "lighthouse", "xxx": ["tower", "architectural structure"]}
+{"uuu": "cleric", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "canal", "xxx": ["stream", "body of water", "natural place", "place"]}
+{"uuu": "volleyball league", "xxx": ["sports league", "organisation", "agent"]}
+{"uuu": "arrondissement", "xxx": ["governmental administrative region", "administrative region", "region", "populated place", "place"]}
+{"uuu": "vice president", "xxx": ["politician", "person", "animal", "eukaryote", "species"]}
+{"uuu": "document", "xxx": ["work"]}
+{"uuu": "baseball league", "xxx": ["sports league", "organisation", "agent"]}
+{"uuu": "camera", "xxx": ["device"]}
+{"uuu": "hockey club", "xxx": ["sports club", "organisation", "agent"]}
+{"uuu": "boxing league", "xxx": ["sports league", "organisation", "agent"]}
+{"uuu": "Legal Case", "xxx": ["case", "unit of work"]}
+{"uuu": "casino", "xxx": ["building", "architectural structure"]}
+{"uuu": "weapon", "xxx": ["device"]}
+{"uuu": "comics creator", "xxx": ["artist", "person", "animal", "eukaryote", "species"]}
+{"uuu": "Government Type", "xxx": ["type", "topical concept"]}
+{"uuu": "saint", "xxx": ["cleric", "person", "animal", "eukaryote", "species"]}
+{"uuu": "train", "xxx": ["mean of transportation"]}
+{"uuu": "soccer club season", "xxx": ["sports team season", "sports season"]}
+{"uuu": "still image", "xxx": ["image", "document", "work"]}
+{"uuu": "cycad", "xxx": ["plant", "eukaryote", "species"]}
+{"uuu": "gymnast", "xxx": ["athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "ambassador", "xxx": ["politician", "person", "animal", "eukaryote", "species"]}
+{"uuu": "hollywood cartoon", "xxx": ["cartoon", "work"]}
+{"uuu": "minister", "xxx": ["politician", "person", "animal", "eukaryote", "species"]}
+{"uuu": "stadium", "xxx": ["venue", "building", "architectural structure"]}
+{"uuu": "space station", "xxx": ["mean of transportation"]}
+{"uuu": "organisation", "xxx": ["agent"]}
+{"uuu": "cycling team", "xxx": ["sports team", "organisation", "agent"]}
+{"uuu": "regency", "xxx": ["governmental administrative region", "administrative region", "region", "populated place", "place"]}
+{"uuu": "rugby league", "xxx": ["sports league", "organisation", "agent"]}
+{"uuu": "Watermill", "xxx": ["Mill", "architectural structure"]}
+{"uuu": "Nuclear Power plant", "xxx": ["infrastructure", "architectural structure", "power station"]}
+{"uuu": "populated place", "xxx": ["place"]}
+{"uuu": "beauty queen", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "chess player", "xxx": ["athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "guitar", "xxx": ["Instrument", "device"]}
+{"uuu": "World Heritage Site", "xxx": ["place"]}
+{"uuu": "beverage", "xxx": ["Food"]}
+{"uuu": "vodka", "xxx": ["beverage", "Food"]}
+{"uuu": "multi volume publication", "xxx": ["written work", "work"]}
+{"uuu": "volleyball coach", "xxx": ["coach", "person", "animal", "eukaryote", "species"]}
+{"uuu": "top level domain", "xxx": ["identifier"]}
+{"uuu": "wrestling event", "xxx": ["sports event", "societal event", "event"]}
+{"uuu": "Database", "xxx": ["work"]}
+{"uuu": "asteroid", "xxx": ["celestial body", "place"]}
+{"uuu": "religious building", "xxx": ["building", "architectural structure"]}
+{"uuu": "mollusca", "xxx": ["animal", "eukaryote", "species"]}
+{"uuu": "Women's Tennis Association tournament", "xxx": ["tournament", "sports event", "societal event", "event"]}
+{"uuu": "arena", "xxx": ["architectural structure"]}
+{"uuu": "spacecraft", "xxx": ["mean of transportation"]}
+{"uuu": "Political concept", "xxx": ["topical concept"]}
+{"uuu": "Theological concept", "xxx": ["topical concept"]}
+{"uuu": "ski jumper", "xxx": ["winter sport Player", "athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "societal event", "xxx": ["event"]}
+{"uuu": "research project", "xxx": ["project", "unit of work"]}
+{"uuu": "archaea", "xxx": ["species"]}
+{"uuu": "Playwright", "xxx": ["writer", "person", "animal", "eukaryote", "species"]}
+{"uuu": "agglomeration", "xxx": ["populated place", "place"]}
+{"uuu": "speedway team", "xxx": ["sports team", "organisation", "agent"]}
+{"uuu": "cricket ground", "xxx": ["sport facility", "architectural structure"]}
+{"uuu": "inline hockey league", "xxx": ["sports league", "organisation", "agent"]}
+{"uuu": "historic building", "xxx": ["building", "architectural structure"]}
+{"uuu": "sports league", "xxx": ["organisation", "agent"]}
+{"uuu": "horse rider", "xxx": ["athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "badminton player", "xxx": ["athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "boxer", "xxx": ["athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "television episode", "xxx": ["work"]}
+{"uuu": "year in spaceflight", "xxx": ["time period"]}
+{"uuu": "Nordic Combined", "xxx": ["winter sport Player", "athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "glacier", "xxx": ["natural place", "place"]}
+{"uuu": "American Leader", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "Cardinal direction", "xxx": ["topical concept"]}
+{"uuu": "hotel", "xxx": ["building", "architectural structure"]}
+{"uuu": "national football league event", "xxx": ["sports event", "societal event", "event"]}
+{"uuu": "cabinet of ministers", "xxx": ["government agency", "organisation", "agent"]}
+{"uuu": "field hockey league", "xxx": ["sports league", "organisation", "agent"]}
+{"uuu": "amusement park attraction", "xxx": ["architectural structure"]}
+{"uuu": "military vehicle", "xxx": ["mean of transportation"]}
+{"uuu": "cross country skier", "xxx": ["winter sport Player", "athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "olympic result", "xxx": ["results of a sport competition"]}
+{"uuu": "DBpedian", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "convention", "xxx": ["societal event", "event"]}
+{"uuu": "royalty", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "rower", "xxx": ["athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "sports team", "xxx": ["organisation", "agent"]}
+{"uuu": "drug", "xxx": ["chemical substance"]}
+{"uuu": "manhua", "xxx": ["comic", "written work", "work"]}
+{"uuu": "serial killer", "xxx": ["murderer", "criminal", "person", "animal", "eukaryote", "species"]}
+{"uuu": "natural place", "xxx": ["place"]}
+{"uuu": "water polo Player", "xxx": ["athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "road tunnel", "xxx": ["route of transportation", "infrastructure", "architectural structure"]}
+{"uuu": "mixed martial arts event", "xxx": ["sports event", "societal event", "event"]}
+{"uuu": "library", "xxx": ["educational institution", "organisation", "agent"]}
+{"uuu": "letter", "xxx": ["written work", "work"]}
+{"uuu": "comics character", "xxx": ["fictional character", "agent"]}
+{"uuu": "aristocrat", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "member of parliament", "xxx": ["politician", "person", "animal", "eukaryote", "species"]}
+{"uuu": "Desert", "xxx": ["natural place", "place"]}
+{"uuu": "Community", "xxx": ["populated place", "place"]}
+{"uuu": "soccer manager", "xxx": ["sports manager", "person", "animal", "eukaryote", "species"]}
+{"uuu": "software", "xxx": ["work"]}
+{"uuu": "rally driver", "xxx": ["racing driver", "motorsport racer", "athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "volcano", "xxx": ["natural place", "place"]}
+{"uuu": "soccer tournoment", "xxx": ["tournament", "sports event", "societal event", "event"]}
+{"uuu": "american football Team", "xxx": ["sports team", "organisation", "agent"]}
+{"uuu": "race track", "xxx": ["sport facility", "architectural structure"]}
+{"uuu": "automobile", "xxx": ["mean of transportation"]}
+{"uuu": "man", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "national collegiate athletic association team season", "xxx": ["sports team season", "sports season"]}
+{"uuu": "coach", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "Vaccination Statistics", "xxx": ["drug", "chemical substance"]}
+{"uuu": "zoo", "xxx": ["architectural structure"]}
+{"uuu": "university", "xxx": ["educational institution", "organisation", "agent"]}
+{"uuu": "Eurovision song contest entry", "xxx": ["song", "musical work", "work"]}
+{"uuu": "military service", "xxx": ["career station", "time period"]}
+{"uuu": "subway station", "xxx": ["station", "infrastructure", "architectural structure"]}
+{"uuu": "cycling league", "xxx": ["sports league", "organisation", "agent"]}
+{"uuu": "dam", "xxx": ["infrastructure", "architectural structure"]}
+{"uuu": "sculptor", "xxx": ["artist", "person", "animal", "eukaryote", "species"]}
+{"uuu": "softball league", "xxx": ["sports league", "organisation", "agent"]}
+{"uuu": "speed skater", "xxx": ["winter sport Player", "athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "motorcycle", "xxx": ["mean of transportation"]}
+{"uuu": "crater", "xxx": ["natural place", "place"]}
+{"uuu": "rocket engine", "xxx": ["engine", "device"]}
+{"uuu": "periodical literature", "xxx": ["written work", "work"]}
+{"uuu": "beer", "xxx": ["beverage", "Food"]}
+{"uuu": "winter sport Player", "xxx": ["athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "JewishLeader", "xxx": ["religious", "person", "animal", "eukaryote", "species"]}
+{"uuu": "sea", "xxx": ["body of water", "natural place", "place"]}
+{"uuu": "race", "xxx": ["sports event", "societal event", "event"]}
+{"uuu": "cheese", "xxx": ["Food"]}
+{"uuu": "naruto character", "xxx": ["fictional character", "agent"]}
+{"uuu": "prehistorical period", "xxx": ["time period"]}
+{"uuu": "surfer", "xxx": ["athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "mineral", "xxx": ["chemical substance"]}
+{"uuu": "cyclist", "xxx": ["athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "island", "xxx": ["populated place", "place"]}
+{"uuu": "american football league", "xxx": ["sports league", "organisation", "agent"]}
+{"uuu": "international football league event", "xxx": ["sports event", "societal event", "event"]}
+{"uuu": "lunar crater", "xxx": ["crater", "natural place", "place"]}
+{"uuu": "wine", "xxx": ["beverage", "Food"]}
+{"uuu": "Sports team member", "xxx": ["Organisation member", "person", "animal", "eukaryote", "species"]}
+{"uuu": "actor", "xxx": ["artist", "person", "animal", "eukaryote", "species"]}
+{"uuu": "Member of a Resistance Movement", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "muscle", "xxx": ["anatomical structure"]}
+{"uuu": "Christian Bishop", "xxx": ["cleric", "person", "animal", "eukaryote", "species"]}
+{"uuu": "stream", "xxx": ["body of water", "natural place", "place"]}
+{"uuu": "horse trainer", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "squash player", "xxx": ["athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "musical artist", "xxx": ["artist", "person", "animal", "eukaryote", "species"]}
+{"uuu": "overseas department", "xxx": ["department", "governmental administrative region", "administrative region", "region", "populated place", "place"]}
+{"uuu": "presenter", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "Producer", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "village", "xxx": ["settlement", "populated place", "place"]}
+{"uuu": "archipelago", "xxx": ["natural place", "place"]}
+{"uuu": "ancient area of jurisdiction of a person feudal or of a governmental body", "xxx": ["administrative region", "region", "populated place", "place"]}
+{"uuu": "Singer", "xxx": ["musical artist", "artist", "person", "animal", "eukaryote", "species"]}
+{"uuu": "Resume", "xxx": ["written work", "work"]}
+{"uuu": "Band", "xxx": ["group", "organisation", "agent"]}
+{"uuu": "shrine", "xxx": ["religious building", "building", "architectural structure"]}
+{"uuu": "street", "xxx": ["populated place", "place"]}
+{"uuu": "australian football Team", "xxx": ["sports team", "organisation", "agent"]}
+{"uuu": "monoclonal antibody", "xxx": ["drug", "chemical substance"]}
+{"uuu": "guitarist", "xxx": ["instrumentalist", "musical artist", "artist", "person", "animal", "eukaryote", "species"]}
+{"uuu": "soccer player", "xxx": ["athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "public transit system", "xxx": ["company", "organisation", "agent"]}
+{"uuu": "high diver", "xxx": ["athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "fashion designer", "xxx": ["artist", "person", "animal", "eukaryote", "species"]}
+{"uuu": "mythological figure", "xxx": ["fictional character", "agent"]}
+{"uuu": "skyscraper", "xxx": ["building", "architectural structure"]}
+{"uuu": "Instrument", "xxx": ["device"]}
+{"uuu": "snooker world ranking", "xxx": ["results of a sport competition"]}
+{"uuu": "handball player", "xxx": ["athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "storm surge", "xxx": ["natural event", "event"]}
+{"uuu": "competition", "xxx": ["event"]}
+{"uuu": "fictional character", "xxx": ["agent"]}
+{"uuu": "polo league", "xxx": ["sports league", "organisation", "agent"]}
+{"uuu": "skier", "xxx": ["winter sport Player", "athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "television station", "xxx": ["broadcaster", "organisation", "agent"]}
+{"uuu": "musical work", "xxx": ["work"]}
+{"uuu": "embryology", "xxx": ["anatomical structure"]}
+{"uuu": "programming language", "xxx": ["language"]}
+{"uuu": "american football coach", "xxx": ["coach", "person", "animal", "eukaryote", "species"]}
+{"uuu": "reptile", "xxx": ["animal", "eukaryote", "species"]}
+{"uuu": "soccer club", "xxx": ["sports club", "organisation", "agent"]}
+{"uuu": "football league season", "xxx": ["sports team season", "sports season"]}
+{"uuu": "tournament", "xxx": ["sports event", "societal event", "event"]}
+{"uuu": "Swarm", "xxx": ["celestial body", "place"]}
+{"uuu": "motorcycle rider", "xxx": ["motorsport racer", "athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "videogames league", "xxx": ["sports league", "organisation", "agent"]}
+{"uuu": "ski area", "xxx": ["sport facility", "architectural structure"]}
+{"uuu": "Biological database", "xxx": ["Database", "work"]}
+{"uuu": "blood vessel", "xxx": ["anatomical structure"]}
+{"uuu": "given name", "xxx": ["name"]}
+{"uuu": "brain", "xxx": ["anatomical structure"]}
+{"uuu": "voice actor", "xxx": ["actor", "artist", "person", "animal", "eukaryote", "species"]}
+{"uuu": "entomologist", "xxx": ["scientist", "person", "animal", "eukaryote", "species"]}
+{"uuu": "attack", "xxx": ["societal event", "event"]}
+{"uuu": "pope", "xxx": ["cleric", "person", "animal", "eukaryote", "species"]}
+{"uuu": "Gaelic games player", "xxx": ["athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "literary genre", "xxx": ["genre", "topical concept"]}
+{"uuu": "lock", "xxx": ["infrastructure", "architectural structure"]}
+{"uuu": "district", "xxx": ["governmental administrative region", "administrative region", "region", "populated place", "place"]}
+{"uuu": "book", "xxx": ["written work", "work"]}
+{"uuu": "sports team season", "xxx": ["sports season"]}
+{"uuu": "celestial body", "xxx": ["place"]}
+{"uuu": "architect", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "country estate", "xxx": ["place"]}
+{"uuu": "National anthem", "xxx": ["musical work", "work"]}
+{"uuu": "factory", "xxx": ["building", "architectural structure"]}
+{"uuu": "adult pornographic actor", "xxx": ["actor", "artist", "person", "animal", "eukaryote", "species"]}
+{"uuu": "office holder", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "Grand Prix", "xxx": ["sports event", "societal event", "event"]}
+{"uuu": "Robot", "xxx": ["device"]}
+{"uuu": "economist", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "water ride", "xxx": ["amusement park attraction", "architectural structure"]}
+{"uuu": "Nebula", "xxx": ["celestial body", "place"]}
+{"uuu": "bird", "xxx": ["animal", "eukaryote", "species"]}
+{"uuu": "collection of valuables", "xxx": ["work"]}
+{"uuu": "educational institution", "xxx": ["organisation", "agent"]}
+{"uuu": "poet", "xxx": ["writer", "person", "animal", "eukaryote", "species"]}
+{"uuu": "humorist", "xxx": ["artist", "person", "animal", "eukaryote", "species"]}
+{"uuu": "martial artist", "xxx": ["athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "one time municipality", "xxx": ["municipality", "governmental administrative region", "administrative region", "region", "populated place", "place"]}
+{"uuu": "Gnetophytes", "xxx": ["plant", "eukaryote", "species"]}
+{"uuu": "woman", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "district water board", "xxx": ["governmental administrative region", "administrative region", "region", "populated place", "place"]}
+{"uuu": "conifer", "xxx": ["plant", "eukaryote", "species"]}
+{"uuu": "dog", "xxx": ["mammal", "animal", "eukaryote", "species"]}
+{"uuu": "historian", "xxx": ["writer", "person", "animal", "eukaryote", "species"]}
+{"uuu": "academic conference", "xxx": ["societal event", "event"]}
+{"uuu": "Ocean", "xxx": ["body of water", "natural place", "place"]}
+{"uuu": "website", "xxx": ["work"]}
+{"uuu": "journalist", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "nascar driver", "xxx": ["racing driver", "motorsport racer", "athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "law", "xxx": ["written work", "work"]}
+{"uuu": "deanery", "xxx": ["clerical administrative region"]}
+{"uuu": "drama", "xxx": ["written work", "work"]}
+{"uuu": "infrastructure", "xxx": ["architectural structure"]}
+{"uuu": "railway tunnel", "xxx": ["route of transportation", "infrastructure", "architectural structure"]}
+{"uuu": "game", "xxx": ["activity"]}
+{"uuu": "Anime", "xxx": ["cartoon", "work"]}
+{"uuu": "Archive", "xxx": ["collection of valuables", "work"]}
+{"uuu": "Mathematical concept", "xxx": ["topical concept"]}
+{"uuu": "Manor", "xxx": ["ancient area of jurisdiction of a person (feudal) or of a governmental body", "administrative region", "region", "populated place", "place"]}
+{"uuu": "dancer", "xxx": ["artist", "person", "animal", "eukaryote", "species"]}
+{"uuu": "cricketer", "xxx": ["athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "motorsport racer", "xxx": ["athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "legislature", "xxx": ["organisation", "agent"]}
+{"uuu": "synagogue", "xxx": ["religious building", "building", "architectural structure"]}
+{"uuu": "prison", "xxx": ["building", "architectural structure"]}
+{"uuu": "artist", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "golf league", "xxx": ["sports league", "organisation", "agent"]}
+{"uuu": "comedian", "xxx": ["artist", "person", "animal", "eukaryote", "species"]}
+{"uuu": "governor", "xxx": ["politician", "person", "animal", "eukaryote", "species"]}
+{"uuu": "referee", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "military unit", "xxx": ["organisation", "agent"]}
+{"uuu": "Archer Player", "xxx": ["athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "BobsleighAthlete", "xxx": ["winter sport Player", "athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "train carriage", "xxx": ["mean of transportation"]}
+{"uuu": "animal", "xxx": ["eukaryote", "species"]}
+{"uuu": "British royalty", "xxx": ["royalty", "person", "animal", "eukaryote", "species"]}
+{"uuu": "artistic genre", "xxx": ["genre", "topical concept"]}
+{"uuu": "racecourse", "xxx": ["race track", "sport facility", "architectural structure"]}
+{"uuu": "flowering plant", "xxx": ["plant", "eukaryote", "species"]}
+{"uuu": "national football league season", "xxx": ["football league season", "sports team season", "sports season"]}
+{"uuu": "play", "xxx": ["written work", "work"]}
+{"uuu": "sumo wrestler", "xxx": ["wrestler", "athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "roller coaster", "xxx": ["amusement park attraction", "architectural structure"]}
+{"uuu": "national soccer club", "xxx": ["soccer club", "sports club", "organisation", "agent"]}
+{"uuu": "meeting", "xxx": ["societal event", "event"]}
+{"uuu": "canton", "xxx": ["governmental administrative region", "administrative region", "region", "populated place", "place"]}
+{"uuu": "wine region", "xxx": ["place"]}
+{"uuu": "group", "xxx": ["organisation", "agent"]}
+{"uuu": "rebellion", "xxx": ["societal event", "event"]}
+{"uuu": "solar eclipse", "xxx": ["natural event", "event"]}
+{"uuu": "bay", "xxx": ["body of water", "natural place", "place"]}
+{"uuu": "Treadmill", "xxx": ["Mill", "architectural structure"]}
+{"uuu": "comic strip", "xxx": ["comic", "written work", "work"]}
+{"uuu": "line of fashion", "xxx": ["work"]}
+{"uuu": "square", "xxx": ["architectural structure"]}
+{"uuu": "on site mean of transportation", "xxx": ["mean of transportation"]}
+{"uuu": "sports club", "xxx": ["organisation", "agent"]}
+{"uuu": "protected area", "xxx": ["place"]}
+{"uuu": "monastery", "xxx": ["religious building", "building", "architectural structure"]}
+{"uuu": "year", "xxx": ["time period"]}
+{"uuu": "formula 1 team", "xxx": ["sports team", "organisation", "agent"]}
+{"uuu": "historic place", "xxx": ["place"]}
+{"uuu": "radio program", "xxx": ["work"]}
+{"uuu": "Nobel Prize", "xxx": ["award"]}
+{"uuu": "battery", "xxx": ["device"]}
+{"uuu": "moving image", "xxx": ["image", "document", "work"]}
+{"uuu": "club moss", "xxx": ["plant", "eukaryote", "species"]}
+{"uuu": "baseball player", "xxx": ["athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "moss", "xxx": ["plant", "eukaryote", "species"]}
+{"uuu": "chef", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "soccer league", "xxx": ["sports league", "organisation", "agent"]}
+{"uuu": "political party", "xxx": ["organisation", "agent"]}
+{"uuu": "Concentration camp", "xxx": ["place"]}
+{"uuu": "Stated Resolution", "xxx": ["written work", "work"]}
+{"uuu": "egyptologist", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "Globular Swarm", "xxx": ["Swarm", "celestial body", "place"]}
+{"uuu": "rest area", "xxx": ["infrastructure", "architectural structure"]}
+{"uuu": "vaccine", "xxx": ["drug", "chemical substance"]}
+{"uuu": "old territory", "xxx": ["territory", "populated place", "place"]}
+{"uuu": "temple", "xxx": ["religious building", "building", "architectural structure"]}
+{"uuu": "music composer", "xxx": ["writer", "person", "animal", "eukaryote", "species"]}
+{"uuu": "arachnid", "xxx": ["animal", "eukaryote", "species"]}
+{"uuu": "Supreme Court of the United States case", "xxx": ["Legal Case", "case", "unit of work"]}
+{"uuu": "monument", "xxx": ["architectural structure"]}
+{"uuu": "football match", "xxx": ["sports event", "societal event", "event"]}
+{"uuu": "information appliance", "xxx": ["device"]}
+{"uuu": "MouseGene", "xxx": ["gene", "Biomolecule"]}
+{"uuu": "locality", "xxx": ["populated place", "place"]}
+{"uuu": "noble", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "church", "xxx": ["religious building", "building", "architectural structure"]}
+{"uuu": "sound", "xxx": ["document", "work"]}
+{"uuu": "type", "xxx": ["topical concept"]}
+{"uuu": "natural event", "xxx": ["event"]}
+{"uuu": "Intercommunality", "xxx": ["populated place", "place"]}
+{"uuu": "building", "xxx": ["architectural structure"]}
+{"uuu": "organ", "xxx": ["Instrument", "device"]}
+{"uuu": "television show", "xxx": ["work"]}
+{"uuu": "settlement", "xxx": ["populated place", "place"]}
+{"uuu": "classical music composition", "xxx": ["musical work", "work"]}
+{"uuu": "mosque", "xxx": ["religious building", "building", "architectural structure"]}
+{"uuu": "senator", "xxx": ["politician", "person", "animal", "eukaryote", "species"]}
+{"uuu": "Employers' Organisation", "xxx": ["organisation", "agent"]}
+{"uuu": "broadcast network", "xxx": ["broadcaster", "organisation", "agent"]}
+{"uuu": "beach volleyball player", "xxx": ["volleyball player", "athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "Police Officer", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "Scientific concept", "xxx": ["topical concept"]}
+{"uuu": "farmer", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "cricket league", "xxx": ["sports league", "organisation", "agent"]}
+{"uuu": "politician spouse", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "dike", "xxx": ["infrastructure", "architectural structure"]}
+{"uuu": "galaxy", "xxx": ["celestial body", "place"]}
+{"uuu": "Quote", "xxx": ["written work", "work"]}
+{"uuu": "back scene", "xxx": ["musical artist", "artist", "person", "animal", "eukaryote", "species"]}
+{"uuu": "Employer", "xxx": ["agent"]}
+{"uuu": "country", "xxx": ["populated place", "place"]}
+{"uuu": "river", "xxx": ["stream", "body of water", "natural place", "place"]}
+{"uuu": "businessperson", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "cemetery", "xxx": ["place"]}
+{"uuu": "non profit organisation", "xxx": ["organisation", "agent"]}
+{"uuu": "ice hockey player", "xxx": ["winter sport Player", "athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "Open Swarm", "xxx": ["Swarm", "celestial body", "place"]}
+{"uuu": "Annotation", "xxx": ["written work", "work"]}
+{"uuu": "ginkgo", "xxx": ["plant", "eukaryote", "species"]}
+{"uuu": "cycling race", "xxx": ["race", "sports event", "societal event", "event"]}
+{"uuu": "netball player", "xxx": ["athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "road", "xxx": ["route of transportation", "infrastructure", "architectural structure"]}
+{"uuu": "cinema", "xxx": ["venue", "building", "architectural structure"]}
+{"uuu": "painter", "xxx": ["artist", "person", "animal", "eukaryote", "species"]}
+{"uuu": "Christian Patriarch", "xxx": ["cleric", "person", "animal", "eukaryote", "species"]}
+{"uuu": "snooker player", "xxx": ["athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "television season", "xxx": ["work"]}
+{"uuu": "baseball season", "xxx": ["sports team season", "sports season"]}
+{"uuu": "paintball league", "xxx": ["sports league", "organisation", "agent"]}
+{"uuu": "tenure", "xxx": ["time period"]}
+{"uuu": "college coach", "xxx": ["coach", "person", "animal", "eukaryote", "species"]}
+{"uuu": "grape", "xxx": ["flowering plant", "plant", "eukaryote", "species"]}
+{"uuu": "chemical compound", "xxx": ["chemical substance"]}
+{"uuu": "HumanGene", "xxx": ["gene", "Biomolecule"]}
+{"uuu": "Historical district", "xxx": ["district", "governmental administrative region", "administrative region", "region", "populated place", "place"]}
+{"uuu": "film festival", "xxx": ["societal event", "event"]}
+{"uuu": "single", "xxx": ["musical work", "work"]}
+{"uuu": "ligament", "xxx": ["anatomical structure"]}
+{"uuu": "Caterer", "xxx": ["company", "organisation", "agent"]}
+{"uuu": "jockey", "xxx": ["athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "travellator", "xxx": ["on-site mean of transportation", "mean of transportation"]}
+{"uuu": "Historical settlement", "xxx": ["settlement", "populated place", "place"]}
+{"uuu": "rugby club", "xxx": ["sports club", "organisation", "agent"]}
+{"uuu": "academic journal", "xxx": ["periodical literature", "written work", "work"]}
+{"uuu": "insect", "xxx": ["animal", "eukaryote", "species"]}
+{"uuu": "mine", "xxx": ["place"]}
+{"uuu": "eukaryote", "xxx": ["species"]}
+{"uuu": "Gated community", "xxx": ["populated place", "place"]}
+{"uuu": "chemical element", "xxx": ["chemical substance"]}
+{"uuu": "prefecture", "xxx": ["governmental administrative region", "administrative region", "region", "populated place", "place"]}
+{"uuu": "olympic event", "xxx": ["olympics", "sports event", "societal event", "event"]}
+{"uuu": "railway line", "xxx": ["route of transportation", "infrastructure", "architectural structure"]}
+{"uuu": "athletics player", "xxx": ["athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "psychologist", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "poem", "xxx": ["written work", "work"]}
+{"uuu": "gridiron football player", "xxx": ["athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "Philosophical concept", "xxx": ["topical concept"]}
+{"uuu": "fish", "xxx": ["animal", "eukaryote", "species"]}
+{"uuu": "brown dwarf", "xxx": ["star", "celestial body", "place"]}
+{"uuu": "figure skater", "xxx": ["winter sport Player", "athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "bodybuilder", "xxx": ["athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "city district", "xxx": ["settlement", "populated place", "place"]}
+{"uuu": "canadian football Player", "xxx": ["gridiron football player", "athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "Formula One racer", "xxx": ["racing driver", "motorsport racer", "athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "Comedy Group", "xxx": ["group", "organisation", "agent"]}
+{"uuu": "plant", "xxx": ["eukaryote", "species"]}
+{"uuu": "constellation", "xxx": ["celestial body", "place"]}
+{"uuu": "sales", "xxx": ["activity"]}
+{"uuu": "grave stone or grave monument", "xxx": ["monument", "architectural structure"]}
+{"uuu": "underground journal", "xxx": ["periodical literature", "written work", "work"]}
+{"uuu": "mobile phone", "xxx": ["device"]}
+{"uuu": "star", "xxx": ["celestial body", "place"]}
+{"uuu": "track list", "xxx": ["list"]}
+{"uuu": "magazine", "xxx": ["periodical literature", "written work", "work"]}
+{"uuu": "System of law", "xxx": ["topical concept"]}
+{"uuu": "state", "xxx": ["populated place", "place"]}
+{"uuu": "speedway rider", "xxx": ["motorcycle rider", "motorsport racer", "athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "motorsport season", "xxx": ["sports season"]}
+{"uuu": "atoll", "xxx": ["island", "populated place", "place"]}
+{"uuu": "olympics", "xxx": ["sports event", "societal event", "event"]}
+{"uuu": "lacrosse league", "xxx": ["sports league", "organisation", "agent"]}
+{"uuu": "skater", "xxx": ["winter sport Player", "athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "power station", "xxx": ["infrastructure", "architectural structure"]}
+{"uuu": "government agency", "xxx": ["organisation", "agent"]}
+{"uuu": "roman emperor", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "criminal", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "scientist", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "gene", "xxx": ["Biomolecule"]}
+{"uuu": "tennis tournament", "xxx": ["tournament", "sports event", "societal event", "event"]}
+{"uuu": "vice prime minister", "xxx": ["politician", "person", "animal", "eukaryote", "species"]}
+{"uuu": "Document Type", "xxx": ["type", "topical concept"]}
+{"uuu": "Television director", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "religious organisation", "xxx": ["organisation", "agent"]}
+{"uuu": "newspaper", "xxx": ["periodical literature", "written work", "work"]}
+{"uuu": "Site of Special Scientific Interest", "xxx": ["place"]}
+{"uuu": "canadian football league", "xxx": ["sports league", "organisation", "agent"]}
+{"uuu": "Pharaoh", "xxx": ["royalty", "person", "animal", "eukaryote", "species"]}
+{"uuu": "model", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "opera", "xxx": ["musical work", "work"]}
+{"uuu": "baseball team", "xxx": ["sports team", "organisation", "agent"]}
+{"uuu": "american football player", "xxx": ["gridiron football player", "athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "hockey team", "xxx": ["sports team", "organisation", "agent"]}
+{"uuu": "park", "xxx": ["place"]}
+{"uuu": "table tennis player", "xxx": ["athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "protein", "xxx": ["Biomolecule"]}
+{"uuu": "mayor", "xxx": ["politician", "person", "animal", "eukaryote", "species"]}
+{"uuu": "Water tower", "xxx": ["tower", "architectural structure"]}
+{"uuu": "HumanGeneLocation", "xxx": ["GeneLocation"]}
+{"uuu": "music festival", "xxx": ["societal event", "event"]}
+{"uuu": "monarch", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "rocket", "xxx": ["mean of transportation"]}
+{"uuu": "radio host", "xxx": ["presenter", "person", "animal", "eukaryote", "species"]}
+{"uuu": "green alga", "xxx": ["plant", "eukaryote", "species"]}
+{"uuu": "term of office", "xxx": ["organisation", "agent"]}
+{"uuu": "reign", "xxx": ["time period"]}
+{"uuu": "horse", "xxx": ["mammal", "animal", "eukaryote", "species"]}
+{"uuu": "space shuttle", "xxx": ["mean of transportation"]}
+{"uuu": "photographer", "xxx": ["artist", "person", "animal", "eukaryote", "species"]}
+{"uuu": "fencer", "xxx": ["athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "athlete", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "murderer", "xxx": ["criminal", "person", "animal", "eukaryote", "species"]}
+{"uuu": "municipality", "xxx": ["governmental administrative region", "administrative region", "region", "populated place", "place"]}
+{"uuu": "screenwriter", "xxx": ["writer", "person", "animal", "eukaryote", "species"]}
+{"uuu": "deputy", "xxx": ["politician", "person", "animal", "eukaryote", "species"]}
+{"uuu": "broadcaster", "xxx": ["organisation", "agent"]}
+{"uuu": "brewery", "xxx": ["company", "organisation", "agent"]}
+{"uuu": "philosopher", "xxx": ["person", "animal", "eukaryote", "species"]}
+{"uuu": "clerical order", "xxx": ["religious organisation", "organisation", "agent"]}
+{"uuu": "academic subject", "xxx": ["topical concept"]}
+{"uuu": "Capital", "xxx": ["city", "settlement", "populated place", "place"]}
+{"uuu": "wrestler", "xxx": ["athlete", "person", "animal", "eukaryote", "species"]}
+{"uuu": "radio controlled racing league", "xxx": ["sports league", "organisation", "agent"]}
+{"uuu": "treaty", "xxx": ["written work", "work"]}
+{"uuu": "Pretender", "xxx": ["royalty", "person", "animal", "eukaryote", "species"]}

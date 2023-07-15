@@ -1,0 +1,3719 @@
+[
+    {
+        "id": 0,
+        "rdf:Property": [
+            "https://www.wikidata.org/wiki/Property:P108",
+            "http://dbpedia.org/ontology/employer"
+        ],
+        "rdfs:label": "employer",
+        "rdfs:domain": "person",
+        "rdf:range": "organisation",
+        "rdfs:subPropertyOf": {
+            "affiliation": "[X] is affiliated with [Y] .",
+            "part of": "[X] is part of [Y] ."
+        },
+        "example": [
+            [
+                "Neil Armstrong",
+                "University of Cincinnati"
+            ],
+            [
+                "Neil Armstrong",
+                "National Aeronautics and Space Administration"
+            ],
+            [
+                "Neil Armstrong",
+                "Tallahassee"
+            ],
+            [
+                "Albert Verlinde",
+                "Stage Entertainment Germany"
+            ],
+            [
+                "Willy Brandt",
+                "Berlin"
+            ],
+            [
+                "Albert Einstein",
+                "Bern"
+            ],
+            [
+                "Diane Greene",
+                "Google"
+            ],
+            [
+                "Peter M. Bowers",
+                "Boeing"
+            ]
+        ],
+        "pattern": "[X] is an employer of [Y] ."
+    },
+    {
+        "id": 1,
+        "rdf:Property": [
+            "https://www.wikidata.org/wiki/Property:P40",
+            "http://dbpedia.org/ontology/child"
+        ],
+        "rdfs:label": "child",
+        "rdfs:domain": "person",
+        "rdf:range": "person",
+        "rdfs:subPropertyOf": {
+            "relative": "[X]'s relative is [Y] .",
+            "significant person": "[X]'s significant person is [Y] ."
+        },
+        "example": [
+            [
+                "Zeus",
+                "Lacedaemon"
+            ],
+            [
+                "Zeus",
+                "Euterpe"
+            ],
+            [
+                "Charles II of England",
+                "Cecelia FitzRoy"
+            ],
+            [
+                "Zeus",
+                "Balius"
+            ],
+            [
+                "Virgin Mary",
+                "Jesus"
+            ],
+            [
+                "Zeus",
+                "Clotho"
+            ],
+            [
+                "Zeus",
+                "Artemis"
+            ],
+            [
+                "Kirk Douglas",
+                "Peter Douglas"
+            ],
+            [
+                "Zeus",
+                "Themides"
+            ],
+            [
+                "Zeus",
+                "Hesperides"
+            ],
+            [
+                "Zeus",
+                "Pasithea"
+            ],
+            [
+                "Lord Byron",
+                "Ada Lovelace"
+            ],
+            [
+                "Zeus",
+                "Melpomene"
+            ],
+            [
+                "Zeus",
+                "Bithynus"
+            ],
+            [
+                "Charles II of England",
+                "Charles Beauclerk, 1st Duke of St Albans"
+            ],
+            [
+                "Zeus",
+                "Garamantis"
+            ],
+            [
+                "Zeus",
+                "Ceroessa"
+            ],
+            [
+                "Zeus",
+                "Endymion"
+            ],
+            [
+                "Zeus",
+                "Aegipan"
+            ],
+            [
+                "Zeus",
+                "Sarpedon"
+            ],
+            [
+                "Zeus",
+                "Dionysus"
+            ],
+            [
+                "Zeus",
+                "Dike"
+            ],
+            [
+                "Zeus",
+                "Ares"
+            ],
+            [
+                "Zeus",
+                "Aoide"
+            ],
+            [
+                "Zeus",
+                "Argus"
+            ],
+            [
+                "Virgin Mary",
+                "James the Just"
+            ],
+            [
+                "Zeus",
+                "Thalia"
+            ],
+            [
+                "Charles II of England",
+                "Charles FitzCharles, 1st Earl of Plymouth"
+            ],
+            [
+                "Zeus",
+                "Pollux"
+            ],
+            [
+                "Zeus",
+                "Achaeus"
+            ],
+            [
+                "Zeus",
+                "Perseus"
+            ],
+            [
+                "Zeus",
+                "Pandia"
+            ],
+            [
+                "Zeus",
+                "Aletheia"
+            ],
+            [
+                "Zeus",
+                "Olenus"
+            ],
+            [
+                "Zeus",
+                "Spartaeus"
+            ],
+            [
+                "Zeus",
+                "Dysis"
+            ],
+            [
+                "Zeus",
+                "Dodon"
+            ],
+            [
+                "Zeus",
+                "Aegle"
+            ],
+            [
+                "Zeus",
+                "Zagreus"
+            ],
+            [
+                "Zeus",
+                "Magnes son of Aeolus"
+            ],
+            [
+                "Charles II of England",
+                "Charles Lennox, 1st Duke of Richmond"
+            ],
+            [
+                "Zeus",
+                "Carpo"
+            ],
+            [
+                "Zeus",
+                "Colaxes"
+            ],
+            [
+                "Zeus",
+                "Tityos"
+            ],
+            [
+                "Zeus",
+                "Adrasteia"
+            ],
+            [
+                "Zeus",
+                "Cronius"
+            ],
+            [
+                "Zeus",
+                "Eunomia"
+            ],
+            [
+                "Zeus",
+                "Carnus"
+            ],
+            [
+                "Zeus",
+                "Geraestus"
+            ],
+            [
+                "Charles II of England",
+                "Lady Barbara FitzRoy"
+            ],
+            [
+                "Zeus",
+                "Polyhymnia"
+            ],
+            [
+                "Zeus",
+                "Angelos"
+            ],
+            [
+                "Zeus",
+                "Acheilus"
+            ],
+            [
+                "Zeus",
+                "Libyan Sibyl"
+            ],
+            [
+                "Zeus",
+                "Ogygias"
+            ],
+            [
+                "Zeus",
+                "Athena"
+            ],
+            [
+                "Zeus",
+                "Alagonia"
+            ],
+            [
+                "Charles II of England",
+                "George FitzRoy, 1st Duke of Northumberland"
+            ],
+            [
+                "Zeus",
+                "Palici"
+            ],
+            [
+                "Zeus",
+                "Crinacus"
+            ],
+            [
+                "Zeus",
+                "Arge"
+            ],
+            [
+                "Zeus",
+                "Corinthos"
+            ],
+            [
+                "Zeus",
+                "Ersa"
+            ],
+            [
+                "Zeus",
+                "Cyrnus"
+            ],
+            [
+                "Zeus",
+                "Caerus"
+            ],
+            [
+                "Zeus",
+                "Castor and Pollux"
+            ],
+            [
+                "Zeus",
+                "Aetae"
+            ],
+            [
+                "Zeus",
+                "Scamander"
+            ],
+            [
+                "Zeus",
+                "Ellops"
+            ],
+            [
+                "Zeus",
+                "Aphrodite"
+            ],
+            [
+                "Zeus",
+                "Asopus"
+            ],
+            [
+                "Zeus",
+                "Atymnius"
+            ],
+            [
+                "Lord Byron",
+                "Allegra Byron"
+            ],
+            [
+                "Zeus",
+                "Nemea"
+            ],
+            [
+                "Zeus",
+                "Arcesius"
+            ],
+            [
+                "Charles II of England",
+                "Henry FitzRoy, 1st Duke of Grafton"
+            ],
+            [
+                "Zeus",
+                "Xanthus"
+            ],
+            [
+                "Zeus",
+                "Eirene"
+            ],
+            [
+                "Zeus",
+                "Corythus"
+            ],
+            [
+                "Zeus",
+                "Pan"
+            ],
+            [
+                "Zeus",
+                "Astraea"
+            ],
+            [
+                "Zeus",
+                "Car"
+            ],
+            [
+                "Zeus",
+                "Mnemosyne"
+            ],
+            [
+                "Zeus",
+                "Myrmidon"
+            ],
+            [
+                "Charles II of England",
+                "James de la Cloche"
+            ],
+            [
+                "Zeus",
+                "Litae"
+            ],
+            [
+                "Kirk Douglas",
+                "Eric Douglas"
+            ],
+            [
+                "Charles II of England",
+                "James Scott, 1st Duke of Monmouth"
+            ],
+            [
+                "Zeus",
+                "Hephaestus"
+            ],
+            [
+                "Zeus",
+                "Auxo"
+            ],
+            [
+                "Zeus",
+                "Latinus"
+            ],
+            [
+                "Zeus",
+                "Hebe"
+            ],
+            [
+                "Zeus",
+                "Britomartis"
+            ],
+            [
+                "Zeus",
+                "Solymus"
+            ],
+            [
+                "Charles II of England",
+                "Mary Crofts"
+            ],
+            [
+                "Charles II of England",
+                "Lady Mary Tudor"
+            ],
+            [
+                "Zeus",
+                "Cres"
+            ],
+            [
+                "Zeus",
+                "Makedon"
+            ],
+            [
+                "Zeus",
+                "Atropos"
+            ],
+            [
+                "Zeus",
+                "Targitaus"
+            ],
+            [
+                "Zeus",
+                "Mneme"
+            ],
+            [
+                "Zeus",
+                "Damocrateia"
+            ],
+            [
+                "Virgin Mary",
+                "Jude"
+            ],
+            [
+                "Zeus",
+                "Manes"
+            ],
+            [
+                "Zeus",
+                "Zethos"
+            ],
+            [
+                "Zeus",
+                "Carius"
+            ],
+            [
+                "Charles II of England",
+                "Charles FitzRoy, 2nd Duke of Cleveland"
+            ],
+            [
+                "Zeus",
+                "Urania"
+            ],
+            [
+                "Zeus",
+                "Iasion"
+            ],
+            [
+                "Zeus",
+                "Rhadamanthus"
+            ],
+            [
+                "Zeus",
+                "Locrus"
+            ],
+            [
+                "Zeus",
+                "Clio"
+            ],
+            [
+                "Charles II of England",
+                "third stillborn child Stuart"
+            ],
+            [
+                "Zeus",
+                "Calligeneia"
+            ],
+            [
+                "Zeus",
+                "Persephone"
+            ],
+            [
+                "Zeus",
+                "Orchomenus"
+            ],
+            [
+                "Zeus",
+                "Charites"
+            ],
+            [
+                "Zeus",
+                "Hecate"
+            ],
+            [
+                "Zeus",
+                "Erato"
+            ],
+            [
+                "Zeus",
+                "Aglaea"
+            ],
+            [
+                "Zeus",
+                "Chrysus"
+            ],
+            [
+                "Lord Byron",
+                "Elizabeth Medora Leigh"
+            ],
+            [
+                "Zeus",
+                "Melete"
+            ],
+            [
+                "Kirk Douglas",
+                "Michael Douglas"
+            ],
+            [
+                "Zeus",
+                "Amphion"
+            ],
+            [
+                "Charles II of England",
+                "Anne Lennard, Countess of Sussex"
+            ],
+            [
+                "Zeus",
+                "Atë"
+            ],
+            [
+                "Zeus",
+                "Euphrosyne"
+            ],
+            [
+                "Zeus",
+                "Arcas"
+            ],
+            [
+                "Zeus",
+                "Korybantes"
+            ],
+            [
+                "Zeus",
+                "Megaros"
+            ],
+            [
+                "Zeus",
+                "Tyche"
+            ],
+            [
+                "Zeus",
+                "Apollo"
+            ],
+            [
+                "Zeus",
+                "Calliope"
+            ],
+            [
+                "Zeus",
+                "Pirithous"
+            ],
+            [
+                "Zeus",
+                "Acme"
+            ],
+            [
+                "Zeus",
+                "Basileia"
+            ],
+            [
+                "Zeus",
+                "Eileithyia"
+            ],
+            [
+                "Zeus",
+                "Acragas"
+            ],
+            [
+                "Zeus",
+                "Terpsichore"
+            ],
+            [
+                "Zeus",
+                "Minos"
+            ],
+            [
+                "Zeus",
+                "Horae"
+            ],
+            [
+                "Zeus",
+                "Thelxinoë"
+            ],
+            [
+                "Zeus",
+                "Bura"
+            ],
+            [
+                "Zeus",
+                "Meliteus"
+            ],
+            [
+                "Virgin Mary",
+                "Simon, brother of Jesus"
+            ],
+            [
+                "Zeus",
+                "Emathion"
+            ],
+            [
+                "Virgin Mary",
+                "Joses"
+            ],
+            [
+                "Zeus",
+                "Epaphus"
+            ],
+            [
+                "Charles II of England",
+                "Charlotte Jemima FitzRoy"
+            ],
+            [
+                "Charles II of England",
+                "unnamed son Stuart"
+            ],
+            [
+                "Zeus",
+                "Aeacus"
+            ],
+            [
+                "Zeus",
+                "Thallo"
+            ],
+            [
+                "Zeus",
+                "Graecus"
+            ],
+            [
+                "Zeus",
+                "Eetion"
+            ],
+            [
+                "Zeus",
+                "Arche"
+            ],
+            [
+                "Zeus",
+                "Gargarvs"
+            ],
+            [
+                "Zeus",
+                "Eris"
+            ],
+            [
+                "Zeus",
+                "Heracles"
+            ],
+            [
+                "Zeus",
+                "Hellen"
+            ],
+            [
+                "Zeus",
+                "Harmonia"
+            ],
+            [
+                "Kirk Douglas",
+                "Joel Douglas"
+            ],
+            [
+                "Zeus",
+                "Cytus"
+            ],
+            [
+                "Zeus",
+                "Myrtilus"
+            ],
+            [
+                "Zeus",
+                "Arcesilaus"
+            ],
+            [
+                "Zeus",
+                "Iardanus"
+            ],
+            [
+                "Charles II of England",
+                "Charlotte Lee, Countess of Lichfield"
+            ],
+            [
+                "Zeus",
+                "Helen of Troy"
+            ],
+            [
+                "Zeus",
+                "Taenarus"
+            ],
+            [
+                "Zeus",
+                "Ethalion"
+            ],
+            [
+                "Zeus",
+                "Opus"
+            ],
+            [
+                "Zeus",
+                "Tantalus"
+            ],
+            [
+                "Zeus",
+                "Eubuleus"
+            ],
+            [
+                "Zeus",
+                "Dardanus"
+            ],
+            [
+                "Zeus",
+                "Aethlius"
+            ],
+            [
+                "Charles II of England",
+                "Catherine FitzCharles"
+            ],
+            [
+                "Zeus",
+                "Melinoe"
+            ],
+            [
+                "Zeus",
+                "Pelasgus"
+            ],
+            [
+                "Charles II of England",
+                "James Beauclerk, Lord Beauclerk"
+            ],
+            [
+                "Zeus",
+                "Lachesis"
+            ],
+            [
+                "Zeus",
+                "Arctus"
+            ],
+            [
+                "Charles II of England",
+                "second stillborn child Stuart"
+            ],
+            [
+                "Zeus",
+                "Enyo"
+            ],
+            [
+                "Zeus",
+                "Dodone"
+            ],
+            [
+                "Zeus",
+                "Hermes"
+            ]
+        ],
+        "pattern": "[X]'s child is [Y] ."
+    },
+    {
+        "id": 2,
+        "rdf:Property": [
+            "https://www.wikidata.org/wiki/Property:P26",
+            "http://dbpedia.org/ontology/spouse"
+        ],
+        "rdfs:label": "spouse",
+        "rdfs:domain": "person",
+        "rdf:range": "person",
+        "rdfs:subPropertyOf": {
+            "relative": "[X]'s relative is [Y] .",
+            "significant person": "[X]'s significant person is [Y] ."
+        },
+        "example": [
+            [
+                "Louis XVI of France",
+                "Marie Antoinette"
+            ],
+            [
+                "Jacqueline, Countess of Hainaut",
+                "John, Dauphin of France, Duke of Touraine"
+            ],
+            [
+                "Pierre Curie",
+                "Marie Curie"
+            ],
+            [
+                "Marie Antoinette",
+                "Louis XVI of France"
+            ],
+            [
+                "Peter",
+                "wife of Saint Peter"
+            ],
+            [
+                "Jacqueline, Countess of Hainaut",
+                "Humphrey of Lancaster, 1st Duke of Gloucester"
+            ],
+            [
+                "Jacqueline, Countess of Hainaut",
+                "John IV"
+            ],
+            [
+                "Jacqueline, Countess of Hainaut",
+                "Frank van Borssele"
+            ]
+        ],
+        "pattern": "[X]'s spouse is [Y] ."
+    },
+    {
+        "id": 3,
+        "rdf:Property": [
+            "https://www.wikidata.org/wiki/Property:P119",
+            "http://dbpedia.org/ontology/placeOfBurial"
+        ],
+        "rdfs:label": "place of burial",
+        "rdfs:domain": "person",
+        "rdf:range": "place",
+        "rdfs:subPropertyOf": {
+            "location": "[X] is located in [Y] ."
+        },
+        "example": [
+            [
+                "James Baldwin",
+                "Ferncliff Cemetery"
+            ],
+            [
+                "Ramesses I",
+                "KV16"
+            ],
+            [
+                "Paracelsus",
+                "Tomb of Paracelsus"
+            ],
+            [
+                "Vasco da Gama",
+                "Jerónimos Monastery"
+            ],
+            [
+                "Christian Doppler",
+                "Cemetery of San Michele"
+            ],
+            [
+                "Anne Frank",
+                "Bergen-Belsen concentration camp"
+            ]
+        ],
+        "pattern": "[X] is buried in [Y] ."
+    },
+    {
+        "id": 4,
+        "rdf:Property": [
+            "https://www.wikidata.org/wiki/Property:P802",
+            "http://dbpedia.org/ontology/student"
+        ],
+        "rdfs:label": "student",
+        "rdfs:domain": "person",
+        "rdf:range": "person",
+        "rdfs:subPropertyOf": {
+            "significant person": "[X]'s significant person is [Y] ."
+        },
+        "example": [
+            [
+                "Socrates",
+                "Aristippus"
+            ],
+            [
+                "Socrates",
+                "Cebes"
+            ],
+            [
+                "Socrates",
+                "Aeschines of Sphettus"
+            ],
+            [
+                "Albert Einstein",
+                "Ernst G. Straus"
+            ],
+            [
+                "Socrates",
+                "Xenophon"
+            ],
+            [
+                "Socrates",
+                "Simmias of Thebes"
+            ],
+            [
+                "Socrates",
+                "Plato"
+            ],
+            [
+                "Socrates",
+                "Apollodorus"
+            ],
+            [
+                "Socrates",
+                "Isocrates"
+            ],
+            [
+                "Socrates",
+                "Alcibiades"
+            ],
+            [
+                "Socrates",
+                "Euclid of Megara"
+            ],
+            [
+                "Socrates",
+                "Phaedo of Elis"
+            ],
+            [
+                "Socrates",
+                "Chaerephon"
+            ],
+            [
+                "Socrates",
+                "Antisthenes"
+            ],
+            [
+                "Socrates",
+                "Menexenus"
+            ]
+        ],
+        "pattern": "[X]'s student is [Y] ."
+    },
+    {
+        "id": 5,
+        "rdf:Property": [
+            "https://www.wikidata.org/wiki/Property:P1640",
+            "http://dbpedia.org/ontology/curator"
+        ],
+        "rdfs:label": "curator",
+        "rdfs:domain": "museum",
+        "rdf:range": "person",
+        "rdfs:subPropertyOf": {
+            "significant person": "[X]'s significant person is [Y] ."
+        },
+        "example": [
+            [
+                "São Paulo Museum of Art",
+                "Adriano Pedrosa"
+            ],
+            [
+                "4. documenta",
+                "Arnold Bode"
+            ],
+            [
+                "Museum of Grenoble",
+                "Jules Bernard"
+            ],
+            [
+                "Sapporo Beer Museum",
+                "Sapporo Breweries"
+            ],
+            [
+                "The Beethoven Exhibition",
+                "Josef Hoffmann"
+            ],
+            [
+                "Museum of the History of Polish Jews",
+                "Barbara Kirshenblatt-Gimblett"
+            ],
+            [
+                "Aurora",
+                "Fred Wilson"
+            ],
+            [
+                "Luciano Caramel",
+                "Premio Michetti"
+            ],
+            [
+                "In Flanders Fields Museum",
+                "Piet Chielens"
+            ],
+            [
+                "Palais des Beaux-Arts de Lille",
+                "Édouard Reynart"
+            ]
+        ],
+        "pattern": "[X]'s curator is [Y] ."
+    },
+    {
+        "id": 6,
+        "rdf:Property": [
+            "https://www.wikidata.org/wiki/Property:P169",
+            "http://dbpedia.org/ontology/ceo"
+        ],
+        "rdfs:label": "chief executive officer",
+        "rdfs:domain": "organisation",
+        "rdf:range": "person",
+        "rdfs:subPropertyOf": {
+            "corporate officer": "[X]'s corporate officer is [Y] .",
+            "director / manager": "[X] is managed by [Y] ."
+        },
+        "example": [
+            [
+                "Yahoo!",
+                "Ross Levinsohn"
+            ],
+            [
+                "Yahoo!",
+                "Terry Semel"
+            ],
+            [
+                "Yahoo!",
+                "Scott Thompson"
+            ],
+            [
+                "Yahoo!",
+                "Marissa Mayer"
+            ],
+            [
+                "Yahoo!",
+                "Timothy Koogle"
+            ],
+            [
+                "Yahoo!",
+                "Tim Morse"
+            ],
+            [
+                "Yahoo!",
+                "Carol Bartz"
+            ],
+            [
+                "Yahoo!",
+                "Jerry Yang"
+            ],
+            [
+                "Yahoo!",
+                "Thomas J. McInerney"
+            ],
+            [
+                "Google",
+                "Sundar Pichai"
+            ]
+        ],
+        "pattern": "[X]'s chief executive officer is [Y] ."
+    },
+    {
+        "id": 7,
+        "rdf:Property": [
+            "https://www.wikidata.org/wiki/Property:P610",
+            "http://dbpedia.org/ontology/highestPoint"
+        ],
+        "rdfs:label": "highest point",
+        "rdfs:domain": "settlement",
+        "rdf:range": "place",
+        "rdfs:subPropertyOf": {
+            "has parts": "[X] has part [Y] ."
+        },
+        "example": [
+            [
+                "Earth",
+                "Chimborazo"
+            ],
+            [
+                "Earth",
+                "Mount Everest"
+            ],
+            [
+                "Hautes-Alpes",
+                "Barre des Écrins"
+            ],
+            [
+                "Africa",
+                "Mount Kibo"
+            ],
+            [
+                "Earth",
+                "Mauna Kea"
+            ],
+            [
+                "Turkey",
+                "Mount Agri"
+            ],
+            [
+                "Dolomites",
+                "Marmolada"
+            ],
+            [
+                "Bergisch Gladbach",
+                "Dreispringen"
+            ],
+            [
+                "Tanzania",
+                "Mount Kibo"
+            ],
+            [
+                "Norway",
+                "Galdhøpiggen"
+            ]
+        ],
+        "pattern": "[X]'s highest point is [Y] ."
+    },
+    {
+        "id": 8,
+        "rdf:Property": [
+            "https://www.wikidata.org/wiki/Property:P371",
+            "http://dbpedia.org/ontology/presenter"
+        ],
+        "rdfs:label": "presenter",
+        "rdfs:domain": "television show",
+        "rdf:range": "person",
+        "rdfs:subPropertyOf": {
+            "cast member": "[X] has cast member [Y] .",
+            "performer": "[X]'s performer is [Y] .",
+            "contributor to the creative work or subject": "[X]'s contributor is [Y] .",
+            "participant": "[X]'s participant is [Y] .",
+            "significant person": "[X]'s significant person is [Y] ."
+        },
+        "example": [
+            [
+                "American Idol",
+                "Brian Dunkleman"
+            ],
+            [
+                "Amanpour",
+                "Christiane Amanpour"
+            ],
+            [
+                "American Idol",
+                "Bobby Bones"
+            ],
+            [
+                "Junior Eurovision Song Contest 2013",
+                "Zlata Ognevich"
+            ],
+            [
+                "Junior Eurovision Song Contest 2013",
+                "Timur Miroshnychenko"
+            ],
+            [
+                "American Idol",
+                "Ryan Seacrest"
+            ],
+            [
+                "Late Show with David Letterman",
+                "David Letterman"
+            ]
+        ],
+        "pattern": "[X] is hosted by [Y] ."
+    },
+    {
+        "id": 9,
+        "rdf:Property": [
+            "https://www.wikidata.org/wiki/Property:P1075",
+            "http://dbpedia.org/ontology/rector"
+        ],
+        "rdfs:label": "rector",
+        "rdfs:domain": "educational institution",
+        "rdf:range": "person",
+        "rdfs:subPropertyOf": {
+            "director / manager":"[X] is managed by [Y] ."
+        },
+        "example": [
+            [
+                "Polytechnic University of Milan",
+                "Luigi Dadda"
+            ],
+            [
+                "Polytechnic University of Milan",
+                "Gino Cassinis"
+            ],
+            [
+                "Polytechnic University of Milan",
+                "Bruno Finzi"
+            ],
+            [
+                "Polytechnic University of Milan",
+                "Giovanni Azzone"
+            ],
+            [
+                "Polytechnic University of Milan",
+                "Emilio Massa"
+            ],
+            [
+                "Polytechnic University of Milan",
+                "Ferruccio Resta"
+            ],
+            [
+                "Polytechnic University of Milan",
+                "Gino Bozza"
+            ],
+            [
+                "Polytechnic University of Milan",
+                "Francesco Carassa"
+            ],
+            [
+                "Polytechnic University of Milan",
+                "Adriano De Maio"
+            ],
+            [
+                "Polytechnic University of Milan",
+                "Giulio Ballio"
+            ],
+            [
+                "Polytechnic University of Milan",
+                "Arrigo Vallatta"
+            ],
+            [
+                "Semmelweis University",
+                "Béla Merkely"
+            ]
+        ],
+        "pattern": "[X]'s rector is [Y] ."
+    },
+    {
+        "id": 10,
+        "rdf:Property": [
+            "https://www.wikidata.org/wiki/Property:P110",
+            "http://dbpedia.org/ontology/illustrator"
+        ],
+        "rdfs:label": "illustrator",
+        "rdfs:domain": "written work",
+        "rdf:range": "person",
+        "rdfs:subPropertyOf": {
+            "creator": "[X] is created by [Y] ."
+        },
+        "example": [
+            [
+                "The Hobbit",
+                "J. R. R. Tolkien"
+            ],
+            [
+                "The Little Prince",
+                "Antoine de Saint-Exupéry"
+            ]
+        ],
+        "pattern": "[X] is illustrated by [Y] ."
+    },
+    {
+        "id": 11,
+        "rdf:Property": [
+            "https://www.wikidata.org/wiki/Property:P37",
+            "http://dbpedia.org/ontology/officialLanguage"
+        ],
+        "rdfs:label": "official language",
+        "rdfs:domain": "populated place",
+        "rdf:range": "language",
+        "rdfs:subPropertyOf": {
+            "language used": "[X]'s widely used language is [Y] ."
+        },
+        "example": [
+            [
+                "Kazakhstan",
+                "Russian"
+            ],
+            [
+                "Austria",
+                "German"
+            ],
+            [
+                "Hawaii",
+                "Hawaiian"
+            ],
+            [
+                "France",
+                "French"
+            ],
+            [
+                "Hawaii",
+                "English"
+            ],
+            [
+                "Kazakhstan",
+                "Kazakh"
+            ]
+        ],
+        "pattern": "[X]'s offical language is [Y] ."
+    },
+    {
+        "id": 12,
+        "rdf:Property": [
+            "https://www.wikidata.org/wiki/Property:P53",
+            "http://dbpedia.org/ontology/family"
+        ],
+        "rdfs:label": "family",
+        "rdfs:domain": "person",
+        "rdf:range": null,
+        "rdfs:subPropertyOf": {
+            "affiliation": "[X] is affiliated with [Y] .",
+            "member of": "[X] is member of [Y] .",
+            "part of": "[X] is part of [Y] ."
+        },
+        "example": [
+            [
+                "Ethel Barrymore",
+                "Barrymore family"
+            ],
+            [
+                "Barack Obama",
+                "family of Barack Obama"
+            ],
+            [
+                "Bart Simpson",
+                "Simpson family"
+            ],
+            [
+                "Lisa Simpson",
+                "Simpson family"
+            ],
+            [
+                "Homer Simpson",
+                "Simpson family"
+            ],
+            [
+                "Mishaal bin Saud",
+                "House of Saud"
+            ],
+            [
+                "Mishari bin Abdulaziz Al Saud",
+                "House of Saud"
+            ],
+            [
+                "Maggie Simpson",
+                "Simpson family"
+            ]
+        ],
+        "pattern": "[X]'s family is [Y] ."
+    },
+    {
+        "id": 14,
+        "rdf:Property": [
+            "https://www.wikidata.org/wiki/Property:P241",
+            "http://dbpedia.org/ontology/militaryBranch"
+        ],
+        "rdfs:label": "military branch",
+        "rdfs:domain": "military person",
+        "rdf:range": "military unit",
+        "rdfs:subPropertyOf": {
+            "part of": "[X] is part of [Y] ."
+        },
+        "example": [
+            [
+                "Prince Harry, Duke of Sussex",
+                "British Army"
+            ],
+            [
+                "Volodymyr Zelenskyy",
+                "Armed Forces of Ukraine"
+            ],
+            [
+                "Ronald Reagan",
+                "United States Army Reserve"
+            ],
+            [
+                "Ronald Reagan",
+                "United States Air Force"
+            ],
+            [
+                "Tadeusz Bór-Komorowski",
+                "cavalry of Second Polish Republic"
+            ],
+            [
+                "Ronald Reagan",
+                "Air Force Reserve Command"
+            ],
+            [
+                "Prince Harry, Duke of Sussex",
+                "Blues and Royals"
+            ],
+            [
+                "Prince Harry, Duke of Sussex",
+                "Army Air Corps"
+            ],
+            [
+                "Royal Gurkha Rifles",
+                "British Army"
+            ]
+        ],
+        "pattern": "[X]'s service branch is [Y] ."
+    },
+    {
+        "id": 15,
+        "rdf:Property": [
+            "https://www.wikidata.org/wiki/Property:P185",
+            "http://dbpedia.org/ontology/doctoralStudent"
+        ],
+        "rdfs:label": "doctoral student",
+        "rdfs:domain": "scientist",
+        "rdf:range": "person",
+        "rdfs:subPropertyOf": {
+            "student": "[X]'s student is [Y] .",
+            "significant person": "[X]'s significant person is [Y] ."
+        },
+        "example": [
+            [
+                "J. J. Thomson",
+                "Ernest Rutherford"
+            ],
+            [
+                "Max Planck",
+                "Heinrich Karstens"
+            ],
+            [
+                "J. J. Thomson",
+                "Paul Langevin"
+            ],
+            [
+                "Max Planck",
+                "Karl Erich Hupka"
+            ],
+            [
+                "Max Planck",
+                "Walther Meissner"
+            ],
+            [
+                "J. J. Thomson",
+                "Harold A. Wilson"
+            ],
+            [
+                "Max Planck",
+                "Hilde Heinicke"
+            ],
+            [
+                "Enrico Fermi",
+                "Mario Ageno"
+            ],
+            [
+                "Batya Friedman",
+                "Daisy Yoo"
+            ],
+            [
+                "Enrico Fermi",
+                "Arthur H. Rosenfeld"
+            ],
+            [
+                "J. J. Thomson",
+                "William Lawrence Bragg"
+            ],
+            [
+                "Enrico Fermi",
+                "Owen Chamberlain"
+            ],
+            [
+                "Batya Friedman",
+                "Janet Davis"
+            ],
+            [
+                "Max Planck",
+                "Max Abraham"
+            ],
+            [
+                "J. J. Thomson",
+                "Francis William Aston"
+            ],
+            [
+                "J. J. Thomson",
+                "Owen Willans Richardson"
+            ],
+            [
+                "Max Planck",
+                "Gustav Ludwig Hertz"
+            ],
+            [
+                "J. J. Thomson",
+                "Geoffrey Ingram Taylor"
+            ],
+            [
+                "Max Planck",
+                "Karl Körner"
+            ],
+            [
+                "Enrico Fermi",
+                "Willem Malkus"
+            ],
+            [
+                "J. J. Thomson",
+                "John Sealy Townsend"
+            ],
+            [
+                "J. J. Thomson",
+                "Theodore Lyman"
+            ],
+            [
+                "Max Planck",
+                "Erich Schumann"
+            ],
+            [
+                "Max Planck",
+                "Max von Laue"
+            ],
+            [
+                "Enrico Fermi",
+                "Marvin Leonard Goldberger"
+            ],
+            [
+                "Max Planck",
+                "Isidor Israel Malkin"
+            ],
+            [
+                "Max Planck",
+                "Richard Becker"
+            ],
+            [
+                "Enrico Fermi",
+                "Richard Garwin"
+            ],
+            [
+                "Max Planck",
+                "Erich Kretschmann"
+            ],
+            [
+                "Enrico Fermi",
+                "Ettore Majorana"
+            ],
+            [
+                "J. J. Thomson",
+                "Władysław Natanson"
+            ],
+            [
+                "Enrico Fermi",
+                "Herbert L. Anderson"
+            ],
+            [
+                "Enrico Fermi",
+                "Tsung-Dao Lee"
+            ],
+            [
+                "Max Planck",
+                "Wilhelm Wenzel"
+            ],
+            [
+                "Max Planck",
+                "Walter H. Schottky"
+            ],
+            [
+                "Enrico Fermi",
+                "Oreste Piccioni"
+            ],
+            [
+                "Enrico Fermi",
+                "Robert A. Schluter"
+            ],
+            [
+                "J. J. Thomson",
+                "Robert William Ditchburn"
+            ],
+            [
+                "Enrico Fermi",
+                "Emilio G. Segrè"
+            ],
+            [
+                "Max Planck",
+                "Moritz Schlick"
+            ],
+            [
+                "J. J. Thomson",
+                "Edward Victor Appleton"
+            ],
+            [
+                "Enrico Fermi",
+                "Geoffrey Chew"
+            ],
+            [
+                "J. J. Thomson",
+                "Arthur Llewelyn Hughes"
+            ],
+            [
+                "Max Planck",
+                "Walther Bothe"
+            ],
+            [
+                "Max Planck",
+                "Walter Gordon"
+            ],
+            [
+                "J. J. Thomson",
+                "Niels Bohr"
+            ],
+            [
+                "Enrico Fermi",
+                "Sam Treiman"
+            ]
+        ],
+        "pattern": "[X]'s doctoral student is [Y] ."
+    },
+    {
+        "id": 16,
+        "rdf:Property": [
+            "https://www.wikidata.org/wiki/Property:P84",
+            "http://dbpedia.org/ontology/architect"
+        ],
+        "rdfs:label": "architect",
+        "rdfs:domain": "architectural structure",
+        "rdf:range": "architect",
+        "rdfs:subPropertyOf": {
+            "designed by": "[X] is designed by [Y] .",
+            "creator": "[X] is created by [Y] ."
+        },
+        "example": [
+            [
+                "World Trade Center",
+                "Emery Roth & Sons"
+            ],
+            [
+                "World Trade Center",
+                "Minoru Yamasaki"
+            ],
+            [
+                "Copenhagen Opera House",
+                "Henning Larsen"
+            ]
+        ],
+        "pattern": "[X]'s architect is [Y] ."
+    },
+    {
+        "id": 17,
+        "rdf:Property": [
+            "https://www.wikidata.org/wiki/Property:P30",
+            "http://dbpedia.org/ontology/continent"
+        ],
+        "rdfs:label": "continent",
+        "rdfs:domain": "country",
+        "rdf:range": "continent",
+        "rdfs:subPropertyOf": {
+            "located in/on physical feature": "[X] is located on landform [Y] .",
+            "location": "[X] is located in [Y] .",
+            "part of": "[X] is part of [Y] ."
+        },
+        "example": [
+            [
+                "Metropolitan France",
+                "Europe"
+            ],
+            [
+                "Libya",
+                "Africa"
+            ],
+            [
+                "Afghanistan",
+                "Asia"
+            ],
+            [
+                "India",
+                "Asia"
+            ],
+            [
+                "France",
+                "Europe"
+            ]
+        ],
+        "pattern": "[X] is located on the continent of [Y] ."
+    },
+    {
+        "id": 18,
+        "rdf:Property": [
+            "https://www.wikidata.org/wiki/Property:P50",
+            "http://dbpedia.org/ontology/author"
+        ],
+        "rdfs:label": "author",
+        "rdfs:domain": "work",
+        "rdf:range": "person",
+        "rdfs:subPropertyOf": {
+            "creator": "[X] is created by [Y] ."
+        },
+        "example": [
+            [
+                "The Lord of the Rings",
+                "J. R. R. Tolkien"
+            ],
+            [
+                "Ludwigslied",
+                "anonymous"
+            ],
+            [
+                "Iliad",
+                "Homer"
+            ],
+            [
+                "Anna Karenina",
+                "Leo Tolstoy"
+            ],
+            [
+                "Pride and Prejudice",
+                "Jane Austen"
+            ]
+        ],
+        "pattern": "[X]'s author is [Y] ."
+    },
+    {
+        "id": 19,
+        "rdf:Property": [
+            "https://www.wikidata.org/wiki/Property:P86",
+            "http://dbpedia.org/ontology/composer"
+        ],
+        "rdfs:label": "composer",
+        "rdfs:domain": "work",
+        "rdf:range": "person",
+        "rdfs:subPropertyOf": {
+            "creator": "[X] is created by [Y] ."
+        },
+        "example": [
+            [
+                "Carmen",
+                "Georges Bizet"
+            ],
+            [
+                "The Marriage of Figaro",
+                "Wolfgang Amadeus Mozart"
+            ],
+            [
+                "Madama Butterfly",
+                "Giacomo Puccini"
+            ]
+        ],
+        "pattern": "[X]'s composer is [Y] ."
+    },
+    {
+        "id": 20,
+        "rdf:Property": [
+            "http://dbpedia.org/ontology/basedOn",
+            "https://www.wikidata.org/wiki/Property:P144"
+        ],
+        "rdfs:label": "based on",
+        "rdfs:domain": "work",
+        "rdf:range": "work",
+        "rdfs:subPropertyOf": {
+            "references work, tradition or theory": "[X] references [Y] .",
+            "inspired by": "[X] is inspired by [Y] ."
+        },
+        "example": [
+            [
+                "State Anthem of the Russian Federation",
+                "State Anthem of the Soviet Union"
+            ],
+            [
+                "The NeverEnding Story",
+                "The Neverending Story"
+            ],
+            [
+                "Ubuntu",
+                "Debian"
+            ]
+        ],
+        "pattern": "[X] is based on [Y] ."
+    },
+    {
+        "id": 21,
+        "rdf:Property": [
+            "http://dbpedia.org/ontology/judge",
+            "https://www.wikidata.org/wiki/Property:P1594"
+        ],
+        "rdfs:label": "judge",
+        "rdfs:domain": "legal case",
+        "rdf:range": "judge",
+        "rdfs:subPropertyOf": {
+            "participant": "[X]'s participant is [Y] .",
+            "significant person": "[X]'s significant person is [Y] ."
+        },
+        "example": [
+            [
+                "Trial of Thomas Paine",
+                "Lloyd Kenyon, 1st Baron Kenyon"
+            ]
+        ],
+        "pattern": "[X]'s judge is [Y] ."
+    },
+    {
+        "id": 22,
+        "rdf:Property": [
+            "http://dbpedia.org/ontology/mother",
+            "https://www.wikidata.org/wiki/Property:P25"
+        ],
+        "rdfs:label": "mother",
+        "rdfs:domain": "person",
+        "rdf:range": "woman",
+        "rdfs:subPropertyOf": {
+            "parent": "[X]'s parent is [Y] .",
+            "relative": "[X]'s relative is [Y] .",
+            "significant person": "[X]'s significant person is [Y] ."
+        },
+        "example": [
+            [
+                "Ares",
+                "Hera"
+            ],
+            [
+                "Jesus",
+                "Virgin Mary"
+            ],
+            [
+                "Charles, Prince of Wales",
+                "Elizabeth II"
+            ]
+        ],
+        "pattern": "[X]'s mother is [Y] ."
+    },
+    {
+        "id": 23,
+        "rdf:Property": [
+            "http://dbpedia.org/ontology/father",
+            "https://www.wikidata.org/wiki/Property:P22"
+        ],
+        "rdfs:label": "father",
+        "rdfs:domain": "person",
+        "rdf:range": "man",
+        "rdfs:subPropertyOf": {
+            "parent":"[X]'s parent is [Y] .",
+            "relative": "[X]'s relative is [Y] .",
+            "significant person": "[X]'s significant person is [Y] ."
+        },
+        "example": [
+            [
+                "daughter of Adrian II",
+                "Adrian II"
+            ],
+            [
+                "Michael Douglas",
+                "Kirk Douglas"
+            ],
+            [
+                "Eros",
+                "Zephyrus"
+            ],
+            [
+                "Indira Gandhi",
+                "Jawaharlal Nehru"
+            ],
+            [
+                "Eros",
+                "Ares"
+            ],
+            [
+                "Eros",
+                "Erebos"
+            ],
+            [
+                "Eros",
+                "Chaos"
+            ],
+            [
+                "Jane Fonda",
+                "Henry Fonda"
+            ],
+            [
+                "Sveinn Björnsson",
+                "Björn Jónsson"
+            ],
+            [
+                "Eros",
+                "Porus"
+            ],
+            [
+                "Eros",
+                "Aether"
+            ]
+        ],
+        "pattern": "[X]'s father is [Y] ."
+    },
+    {
+        "id": 24,
+        "rdf:Property": [
+            "http://dbpedia.org/ontology/headquarter",
+            "https://www.wikidata.org/wiki/Property:P159"
+        ],
+        "rdfs:label": "headquarters location",
+        "rdfs:domain": "organisation",
+        "rdf:range": "populated place",
+        "rdfs:subPropertyOf": {
+            "location": "[X] is located in [Y] .",
+            "significant place": "[X]'s significant place is [Y] ."
+        },
+        "example": [
+            [
+                "Wikimedia Foundation",
+                "San Francisco"
+            ],
+            [
+                "Social Democratic Party of Germany",
+                "Berlin"
+            ],
+            [
+                "Baranagore Ramakrishna Mission Ashrama High School",
+                "Belur Math"
+            ],
+            [
+                "Shell",
+                "The Hague"
+            ],
+            [
+                "Santos Futebol Clube",
+                "João Pessoa"
+            ],
+            [
+                "Organization of the Petroleum Exporting Countries",
+                "Innere Stadt"
+            ]
+        ],
+        "pattern": "[X]'s headquarter is in [Y] ."
+    },
+    {
+        "id": 25,
+        "rdf:Property": [
+            "https://www.wikidata.org/wiki/Property:P161",
+            "https://dbpedia.org/ontology/starring"
+        ],
+        "rdfs:label": "cast member",
+        "rdfs:domain": "work",
+        "rdf:range": "actor",
+        "rdfs:subPropertyOf": {
+            "performer":"[X]'s performer is [Y] .",
+            "contributor to the creative work or subject":"[X]'s contributor is [Y] .",
+            "participant":"[X]'s participant is [Y] .",
+            "significant person": "[X]'s significant person is [Y] ."
+        },
+        "example": [
+            [
+                "Titanic",
+                "Suzy Amis Cameron"
+            ],
+            [
+                "Titanic",
+                "Edward Kamuda"
+            ],
+            [
+                "Titanic",
+                "Bill Paxton"
+            ],
+            [
+                "Titanic",
+                "Seth Adkins"
+            ],
+            [
+                "Cast Away",
+                "Tom Hanks"
+            ],
+            [
+                "Titanic",
+                "Craig Kelly"
+            ],
+            [
+                "Titanic",
+                "Jenette Goldstein"
+            ],
+            [
+                "Titanic",
+                "Frances Fisher"
+            ],
+            [
+                "Titanic",
+                "Michael Ensign"
+            ],
+            [
+                "Titanic",
+                "Victor Garber"
+            ],
+            [
+                "Titanic",
+                "Danny Nucci"
+            ],
+            [
+                "Titanic",
+                "Ioan Gruffudd"
+            ],
+            [
+                "Titanic",
+                "Jonathan Hyde"
+            ],
+            [
+                "The Book of Mormon: Original Broadway Cast Recording",
+                "Lewis Cleale"
+            ],
+            [
+                "Titanic",
+                "Mark Lindsay Chapman"
+            ],
+            [
+                "The Book of Mormon: Original Broadway Cast Recording",
+                "Asmeret Ghebremichael"
+            ],
+            [
+                "The Book of Mormon: Original Broadway Cast Recording",
+                "Josh Gad"
+            ],
+            [
+                "Titanic",
+                "David Warner"
+            ],
+            [
+                "Titanic",
+                "Terry Forrestal"
+            ],
+            [
+                "Titanic",
+                "Anatoly Sagalevich"
+            ],
+            [
+                "Titanic",
+                "Leonardo DiCaprio"
+            ],
+            [
+                "Titanic",
+                "Lew Palter"
+            ],
+            [
+                "Titanic",
+                "Kathy Bates"
+            ],
+            [
+                "Titanic",
+                "Richard Graham"
+            ],
+            [
+                "Titanic",
+                "Bernard Fox"
+            ],
+            [
+                "Titanic",
+                "Lewis Abernathy"
+            ],
+            [
+                "Titanic",
+                "Martin Laing"
+            ],
+            [
+                "Titanic",
+                "Kate Winslet"
+            ],
+            [
+                "Titanic",
+                "Edward Fletcher"
+            ],
+            [
+                "Titanic",
+                "Bernard Hill"
+            ],
+            [
+                "Titanic",
+                "Simon Crane"
+            ],
+            [
+                "Titanic",
+                "James Cameron"
+            ],
+            [
+                "Titanic",
+                "Greg Ellis"
+            ],
+            [
+                "Titanic",
+                "Liam Tuohy"
+            ],
+            [
+                "Titanic",
+                "Scott G. Anderson"
+            ],
+            [
+                "The Book of Mormon: Original Broadway Cast Recording",
+                "Andrew Rannells"
+            ],
+            [
+                "Titanic",
+                "James Lancaster"
+            ],
+            [
+                "The Book of Mormon: Original Broadway Cast Recording",
+                "Michael James Scott"
+            ],
+            [
+                "The Book of Mormon: Original Broadway Cast Recording",
+                "Kevin Duda"
+            ],
+            [
+                "The Book of Mormon: Original Broadway Cast Recording",
+                "Michael Potts"
+            ],
+            [
+                "Titanic",
+                "Jason Barry"
+            ],
+            [
+                "Titanic",
+                "Gregory Cooke"
+            ],
+            [
+                "Titanic",
+                "Jonathan Evans-Jones"
+            ],
+            [
+                "Titanic",
+                "Ewan Stewart"
+            ],
+            [
+                "Titanic",
+                "Gloria Stuart"
+            ],
+            [
+                "Titanic",
+                "Martin East"
+            ],
+            [
+                "Titanic",
+                "Barry Dennen"
+            ],
+            [
+                "Titanic",
+                "Tricia O'Neil"
+            ],
+            [
+                "The Book of Mormon: Original Broadway Cast Recording",
+                "Rory O'Malley"
+            ],
+            [
+                "Titanic",
+                "Billy Zane"
+            ],
+            [
+                "Titanic",
+                "Elsa Raven"
+            ],
+            [
+                "The Book of Mormon: Original Broadway Cast Recording",
+                "Justin Bohon"
+            ],
+            [
+                "Titanic",
+                "Eric Braeden"
+            ],
+            [
+                "Titanic",
+                "Anne Fletcher"
+            ],
+            [
+                "Titanic",
+                "Paul Brightwell"
+            ],
+            [
+                "Titanic",
+                "Rochelle Rose"
+            ],
+            [
+                "Titanic",
+                "Martin Hub"
+            ],
+            [
+                "Titanic",
+                "Charlotte Chatton"
+            ],
+            [
+                "Titanic",
+                "Jonathan Phillips"
+            ],
+            [
+                "The Book of Mormon: Original Broadway Cast Recording",
+                "Nikki M. James"
+            ],
+            [
+                "Titanic",
+                "Martin Jarvis"
+            ],
+            [
+                "Titanic",
+                "Rosalind Ayres"
+            ]
+        ],
+        "pattern": "[X] has cast member [Y] ."
+    },
+    {
+        "id": 26,
+        "rdf:Property": [
+            "https://www.wikidata.org/wiki/Property:P19",
+            "http://dbpedia.org/ontology/birthPlace"
+        ],
+        "rdfs:label": "place of birth",
+        "rdfs:domain": "animal",
+        "rdf:range": "place",
+        "rdfs:subPropertyOf": {
+            "location": "[X] is located in [Y] ."
+        },
+        "example": [
+            [
+                "Gioacchino Rossini",
+                "Casa Rossini"
+            ],
+            [
+                "Julius Caesar",
+                "Rome"
+            ],
+            [
+                "Elena Kagan",
+                "New York City"
+            ],
+            [
+                "Gioacchino Rossini",
+                "Pesaro"
+            ],
+            [
+                "Jimmy Carter",
+                "Lillian G. Carter Nursing Center"
+            ]
+        ],
+        "pattern": "[X] was born in [Y] ."
+    },
+    {
+        "id": 27,
+        "rdf:Property": [
+            "https://www.wikidata.org/wiki/Property:P20",
+            "http://dbpedia.org/ontology/deathPlace"
+        ],
+        "rdfs:label": "place of death",
+        "rdfs:domain": "animal",
+        "rdf:range": "place",
+        "rdfs:subPropertyOf": {
+            "location": "[X] is located in [Y] ."
+        },
+        "example": [
+            [
+                "Captain Nemo",
+                "Lincoln Island"
+            ],
+            [
+                "René Descartes",
+                "Stockholm"
+            ],
+            [
+                "Sung Jae-gi",
+                "Seoul"
+            ],
+            [
+                "Richard Dürr",
+                "Lausanne University Hospital"
+            ]
+        ],
+        "pattern": "[X] died in [Y] ."
+    },
+    {
+        "id": 28,
+        "rdf:Property": [
+            "https://www.wikidata.org/wiki/Property:P355",
+            "https://dbpedia.org/ontology/subsidiary"
+        ],
+        "rdfs:label": "has subsidiary",
+        "rdfs:domain": "company",
+        "rdf:range": "company",
+        "rdfs:subPropertyOf": {
+            "owner of": "[X] is the owner of [Y] .",
+            "has parts": "[X] has part [Y] ."
+    },
+        "example": [
+            [
+                "Microsoft",
+                "Microsoft"
+            ],
+            [
+                "Microsoft",
+                "Microsoft Switzerland"
+            ],
+            [
+                "Microsoft",
+                "Microsoft Kids"
+            ],
+            [
+                "Microsoft",
+                "Microsoft Research Asia"
+            ],
+            [
+                "Microsoft",
+                "Microsoft Japan"
+            ],
+            [
+                "Microsoft",
+                "Avanade"
+            ],
+            [
+                "Microsoft",
+                "Microsoft Egypt"
+            ],
+            [
+                "Microsoft",
+                "Softomotive"
+            ],
+            [
+                "Microsoft",
+                "Clipchamp Pty Ltd"
+            ],
+            [
+                "Microsoft",
+                "Visio Corporation"
+            ],
+            [
+                "Microsoft",
+                "Microsoft Mobile"
+            ],
+            [
+                "Microsoft",
+                "ZeniMax Media"
+            ],
+            [
+                "Microsoft",
+                "DATAllegro"
+            ],
+            [
+                "The Walt Disney Company",
+                "Lucasfilm"
+            ],
+            [
+                "Microsoft",
+                "Microsoft India R & D"
+            ],
+            [
+                "Microsoft",
+                "Microsoft Ireland Research"
+            ],
+            [
+                "Microsoft",
+                "Microsoft Global Finance"
+            ],
+            [
+                "Microsoft",
+                "ProClarity"
+            ],
+            [
+                "The Walt Disney Company",
+                "Jetix"
+            ],
+            [
+                "Microsoft",
+                "Xbox Game Studios"
+            ],
+            [
+                "The Walt Disney Company",
+                "Walt Disney Parks, Experiences and Consumer Products"
+            ],
+            [
+                "The Walt Disney Company",
+                "ESPN"
+            ],
+            [
+                "Toons Mag",
+                "Toons Mag TV"
+            ],
+            [
+                "Microsoft",
+                "Powerset"
+            ],
+            [
+                "The Walt Disney Company",
+                "Disney Electronic Content"
+            ],
+            [
+                "Microsoft",
+                "Microsoft (Palestine)"
+            ],
+            [
+                "Microsoft",
+                "Microsoft (France)"
+            ],
+            [
+                "Microsoft",
+                "Microsoft Canada"
+            ],
+            [
+                "Microsoft",
+                "LinkedIn Ireland"
+            ],
+            [
+                "Microsoft",
+                "Microsoft Online"
+            ],
+            [
+                "Microsoft",
+                "Microsoft Saudi"
+            ],
+            [
+                "Microsoft",
+                "Tellme Networks"
+            ],
+            [
+                "The Walt Disney Company",
+                "Walt Disney Television"
+            ],
+            [
+                "Microsoft",
+                "Razorfish"
+            ],
+            [
+                "Microsoft",
+                "Perceptive Pixel"
+            ],
+            [
+                "Microsoft",
+                "Digital Anvil"
+            ],
+            [
+                "Microsoft",
+                "Microsoft Store"
+            ],
+            [
+                "Toons Mag",
+                "Cartoonist's Shop"
+            ],
+            [
+                "Microsoft",
+                "aQuantive"
+            ],
+            [
+                "Toons Mag",
+                "Periodical"
+            ],
+            [
+                "Toons Mag",
+                "Cartoonist Club"
+            ],
+            [
+                "Microsoft",
+                "Massive Incorporated"
+            ],
+            [
+                "Microsoft",
+                "Microsoft (Ukraine)"
+            ],
+            [
+                "The Walt Disney Company",
+                "Disney Worldwide Services"
+            ],
+            [
+                "The Walt Disney Company",
+                "Marvel Entertainment"
+            ],
+            [
+                "Microsoft",
+                "GitHub"
+            ],
+            [
+                "The Walt Disney Company",
+                "Walt Disney Studios"
+            ],
+            [
+                "Microsoft",
+                "GreenButton"
+            ],
+            [
+                "Microsoft",
+                "Turn 10 Studios"
+            ],
+            [
+                "Microsoft",
+                "Danger, Inc."
+            ],
+            [
+                "Microsoft",
+                "LinkedIn"
+            ],
+            [
+                "Microsoft",
+                "Microsoft Production Studios"
+            ],
+            [
+                "Microsoft",
+                "Microsoft Operations"
+            ],
+            [
+                "Microsoft",
+                "DreamWorks Interactive"
+            ],
+            [
+                "The Walt Disney Company",
+                "Pixar"
+            ],
+            [
+                "Microsoft",
+                "Microsoft (United Kingdom)"
+            ],
+            [
+                "Toons Mag",
+                "E Magazine"
+            ],
+            [
+                "Microsoft",
+                "Havok"
+            ],
+            [
+                "Microsoft",
+                "Lionhead Studios"
+            ],
+            [
+                "Microsoft",
+                "Sysinternals"
+            ],
+            [
+                "The Walt Disney Company",
+                "Disney Media and Entertainment Distribution"
+            ],
+            [
+                "Microsoft",
+                "Microsoft Regional Sales"
+            ],
+            [
+                "Microsoft",
+                "Microsoft Ireland Operations"
+            ],
+            [
+                "Microsoft",
+                "Rare Ltd."
+            ],
+            [
+                "Microsoft",
+                "Ensemble Studios"
+            ],
+            [
+                "Microsoft",
+                "Jellyfish.com"
+            ],
+            [
+                "Microsoft",
+                "Skype Technologies"
+            ],
+            [
+                "Microsoft",
+                "Fast Search & Transfer"
+            ],
+            [
+                "Microsoft",
+                "Microsoft (Netherlands)"
+            ],
+            [
+                "Microsoft",
+                "Microsoft Algeria"
+            ],
+            [
+                "The Walt Disney Company",
+                "Disney Channel"
+            ]
+        ],
+        "pattern": "[X]'s subsidiary is [Y] ."
+    },
+    {
+        "id": 29,
+        "rdf:Property":  [
+            "https://www.wikidata.org/wiki/Property:P6",
+            "http://dbpedia.org/ontology/primeMinister"
+        ],
+        "rdfs:label": "head of government",
+        "rdfs:domain": "country",
+        "rdf:range": "person",
+        "rdfs:subPropertyOf": {
+            "chairperson": "[X]'s chairperson is [Y] .",
+            "director / manager": "[X] is managed by [Y] .",
+            "significant person": "[X]'s significant person is [Y] ."
+        },
+        "example": [
+            [
+                "United States of America",
+                "Joe Biden"
+            ],
+            [
+                "Indonesia",
+                "Joko Widodo"
+            ],
+            [
+                "Greece",
+                "Kyriakos Mitsotakis"
+            ],
+            [
+                "Germany",
+                "Olaf Scholz"
+            ],
+            [
+                "Turkey",
+                "Recep Tayyip Erdoğan"
+            ],
+            [
+                "Russia",
+                "Mikhail Mishustin"
+            ]
+        ],
+        "pattern": "[X]'s government is headed by [Y] ."
+    },
+    {
+        "id": 30,
+        "rdf:Property": [
+            "https://www.wikidata.org/wiki/Property:P27",
+            "https://dbpedia.org/ontology/citizenship"
+        ],
+        "rdfs:label": "country of citizenship",
+        "rdfs:domain": "person",
+        "rdf:range": "country",
+        "rdfs:subPropertyOf": {
+            "country": "[X]'s country is [Y] .",
+            "located in the administrative territorial entity": "[X] is located in the administrative territory of [Y] .",
+            "location": "[X] is located in [Y] .",
+            "part of": "[X] is part of [Y] ."
+        },
+        "example": [
+            [
+                "Napoleon",
+                "France"
+            ],
+            [
+                "Napoleon",
+                "French First Republic"
+            ],
+            [
+                "Sergio Mattarella",
+                "Italy"
+            ],
+            [
+                "Mohandas Karamchand Gandhi",
+                "British Raj"
+            ],
+            [
+                "George Washington",
+                "Great Britain"
+            ],
+            [
+                "George Washington",
+                "United States of America"
+            ],
+            [
+                "Mohandas Karamchand Gandhi",
+                "India"
+            ],
+            [
+                "Nelson Mandela",
+                "South Africa"
+            ],
+            [
+                "Mohandas Karamchand Gandhi",
+                "Dominion of India"
+            ]
+        ],
+        "pattern": "[X] is a citizen of [Y] ."
+    },
+    {
+        "id": 31,
+        "rdf:Property": [
+            "https://www.wikidata.org/wiki/Property:P504",
+            "https://dbpedia.org/ontology/homeport"
+        ],
+        "rdfs:label": "home port",
+        "rdfs:domain": "ship",
+        "rdf:range": "place",
+        "rdfs:subPropertyOf": {
+            "location": "[X] is located in [Y] .",
+            "significant place":"[X]'s significant place is [Y] ."
+        },
+        "example": [
+            [
+                "Titanic",
+                "Liverpool"
+            ],
+            [
+                "HMS Astute",
+                "HMNB Clyde"
+            ]
+        ],
+        "pattern": "[X]'s home port is [Y] ."
+    },
+    {
+        "id": 32,
+        "rdf:Property": [
+            "https://www.wikidata.org/wiki/Property:P131",
+            "https://dbpedia.org/ontology/county"
+        ],
+        "rdfs:label": "located in the administrative territorial entity",
+        "rdfs:domain": null,
+        "rdf:range": "administrative region",
+        "rdfs:subPropertyOf": {
+            "location": "[X] is located in [Y] .",
+            "part of": "[X] is part of [Y] ."
+        },
+        "example": [
+            [
+                "Jungfrau",
+                "Lauterbrunnen"
+            ],
+            [
+                "Seattle",
+                "King County"
+            ],
+            [
+                "University District",
+                "Seattle"
+            ],
+            [
+                "Eiffel Tower",
+                "7th arrondissement of Paris"
+            ],
+            [
+                "Jungfrau",
+                "Fieschertal"
+            ]
+        ],
+        "pattern": "[X] is located in the administrative territory of [Y] ."
+    },
+    {
+        "id": 33,
+        "rdf:Property": [
+            "https://www.wikidata.org/wiki/Property:P607",
+            "https://dbpedia.org/ontology/battle"
+        ],
+        "rdfs:label": "conflict",
+        "rdfs:domain": "person",
+        "rdf:range": "military conflict",
+        "rdfs:subPropertyOf": {
+            "participant in": "[X] participated in [Y] .",
+            "part of": "[X] is part of [Y] .",
+            "significant event": "[X]'s significant event is [Y] ."
+        },
+        "example": [
+            [
+                "Michel Ney",
+                "Battle of Laon"
+            ],
+            [
+                "Michel Ney",
+                "Battle of Guttstadt-Deppen"
+            ],
+            [
+                "Crixus",
+                "Battle of Mount Gargano"
+            ],
+            [
+                "Michel Ney",
+                "Battle of Jena–Auerstedt"
+            ],
+            [
+                "Michel Ney",
+                "Battle of Borodino"
+            ],
+            [
+                "Michel Ney",
+                "Battle of Waterloo"
+            ],
+            [
+                "Michel Ney",
+                "Battle of Eylau"
+            ],
+            [
+                "Michel Ney",
+                "Battle of Elchingen"
+            ],
+            [
+                "Michel Ney",
+                "Battle of Ulm"
+            ],
+            [
+                "Michel Ney",
+                "Peninsular War"
+            ],
+            [
+                "Michel Ney",
+                "Battle of Leipzig"
+            ],
+            [
+                "Michel Ney",
+                "Battle of Friedland"
+            ],
+            [
+                "Michel Ney",
+                "Battle of Dresden"
+            ],
+            [
+                "Michel Ney",
+                "Napoleonic Wars"
+            ],
+            [
+                "Crixus",
+                "Third Servile War"
+            ],
+            [
+                "Léopard",
+                "Battle of La Réunion"
+            ],
+            [
+                "Michel Ney",
+                "Battle of Dennewitz"
+            ]
+        ],
+        "pattern": "[X] participated in conflict [Y] ."
+    },
+    {
+        "id": 34,
+        "rdf:Property": [
+            "https://www.wikidata.org/wiki/Property:P178",
+            "http://dbpedia.org/ontology/developer"
+        ],
+        "rdfs:label": "developer",
+        "rdfs:domain": "work",
+        "rdf:range": "agent",
+        "rdfs:subPropertyOf": {
+            "creator": "[X] is created by [Y] ."
+        },
+        "example": [
+            [
+                "Super Mario Bros.",
+                "Nintendo Entertainment Analysis & Development"
+            ],
+            [
+                "Age of Empires",
+                "Ensemble Studios"
+            ],
+            [
+                "Boeing 747",
+                "Boeing"
+            ],
+            [
+                "Google Reader",
+                "Google"
+            ]
+        ],
+        "pattern": "[X]'s developer is [Y] ."
+    },
+    {
+        "id": 35,
+        "rdf:Property": [
+            "https://www.wikidata.org/wiki/Property:P54",
+            "http://dbpedia.org/ontology/team"
+        ],
+        "rdfs:label": "member of sports team",
+        "rdfs:domain": "person",
+        "rdf:range": "sports team",
+        "rdfs:subPropertyOf": {
+            "member of": "[X] is member of [Y] .",
+            "affiliation": "[X] is affiliated with [Y] .",
+            "part of": "[X] is part of [Y] ."
+        },
+        "example": [
+            [
+                "Diego Maradona",
+                "Argentina national football team"
+            ],
+            [
+                "Marcel Kittel",
+                "Team DSM"
+            ],
+            [
+                "Diego Maradona",
+                "Newell's Old Boys"
+            ],
+            [
+                "Marcel Kittel",
+                "Thüringer Energie"
+            ],
+            [
+                "Diego Maradona",
+                "FC Barcelona"
+            ],
+            [
+                "Diego Maradona",
+                "Sevilla FC"
+            ],
+            [
+                "Marcel Kittel",
+                "Quick-Step Alpha Vinyl Team"
+            ],
+            [
+                "Marcel Kittel",
+                "Katusha-Alpecin"
+            ],
+            [
+                "Diego Maradona",
+                "Boca Juniors"
+            ],
+            [
+                "Diego Maradona",
+                "S.S.C. Napoli"
+            ],
+            [
+                "Diego Maradona",
+                "Argentinos Juniors"
+            ],
+            [
+                "Diego Maradona",
+                "Argentina national under-20 football team"
+            ]
+        ],
+        "pattern": "[X] played for [Y] ."
+    },
+    {
+        "id": 36,
+        "rdf:Property": [
+            "https://www.wikidata.org/wiki/Property:P59",
+            "http://dbpedia.org/ontology/constellation"
+        ],
+        "rdfs:label": "constellation",
+        "rdfs:domain": "celestial body",
+        "rdf:range": "constellation",
+        "rdfs:subPropertyOf": {
+            "part of": "[X] is part of [Y] ."
+        },
+        "example": [
+            [
+                "NGC 6822",
+                "Sagittarius"
+            ],
+            [
+                "Andromeda Galaxy",
+                "Andromeda"
+            ]
+        ],
+        "pattern": "[X] is part of constellation [Y] ."
+    },
+    {
+        "id": 37,
+        "rdf:Property": [
+            "https://www.wikidata.org/wiki/Property:P157",
+            "https://dbpedia.org/ontology/killedBy"
+        ],
+        "rdfs:label": "killed by",
+        "rdfs:domain": "person",
+        "rdf:range": "person",
+        "rdfs:subPropertyOf": {
+            "significant person": "[X]'s significant person is [Y] ."
+        },
+        "example": [
+            [
+                "Archduke Franz Ferdinand",
+                "Gavrilo Princip"
+            ],
+            [
+                "John F. Kennedy",
+                "Lee Harvey Oswald"
+            ],
+            [
+                "Medusa",
+                "Perseus"
+            ],
+            [
+                "Holofernes",
+                "Judith"
+            ]
+        ],
+        "pattern": "[X] was killed by [Y] ."
+    },
+    {
+        "id": 38,
+        "rdf:Property": [
+            "https://www.wikidata.org/wiki/Property:P69",
+            "http://dbpedia.org/ontology/education"
+        ],
+        "rdfs:label": "educated at",
+        "rdfs:domain": "person",
+        "rdf:range": "educational institution",
+        "rdfs:subPropertyOf": {
+            "part of":"[X] is part of [Y] .",
+            "affiliation":"[X] is affiliated with [Y] ."
+        },
+        "example": [
+            [
+                "Stephen Hawking",
+                "University College, Oxford"
+            ],
+            [
+                "Henry David Thoreau",
+                "Harvard College"
+            ],
+            [
+                "Stephen Hawking",
+                "Byron House School"
+            ],
+            [
+                "Bertrand Russell",
+                "University of Cambridge"
+            ],
+            [
+                "Stephen Hawking",
+                "St Albans School"
+            ],
+            [
+                "Stephen Hawking",
+                "St Albans High School for Girls"
+            ],
+            [
+                "Bertrand Russell",
+                "Trinity College"
+            ],
+            [
+                "Stephen Hawking",
+                "University of Cambridge"
+            ],
+            [
+                "Henry David Thoreau",
+                "Harvard University"
+            ],
+            [
+                "Stephen Hawking",
+                "Trinity Hall"
+            ]
+        ],
+        "pattern": "[X] is educated at [Y] ."
+    },
+    {
+        "id": 39,
+        "rdf:Property": [
+            "https://www.wikidata.org/wiki/Property:P551",
+            "http://dbpedia.org/ontology/residence"
+        ],
+        "rdfs:label": "residence",
+        "rdfs:domain": "person",
+        "rdf:range": "place",
+        "rdfs:subPropertyOf": {
+            "location": "[X] is located in [Y] ."
+        },
+        "example": [
+            [
+                "Kim Dotcom",
+                "Queenstown"
+            ],
+            [
+                "Eliza Bunton Johnson",
+                "Johnson Cabin"
+            ],
+            [
+                "Zhongtian Mao",
+                "Zhenjiang"
+            ]
+        ],
+        "pattern": "[X] lives in [Y] ."
+    },
+    {
+        "id": 40,
+        "rdf:Property": [
+            "https://www.wikidata.org/wiki/Property:P364",
+            "http://dbpedia.org/ontology/originalLanguage"
+        ],
+        "rdfs:label": "original language",
+        "rdfs:domain": "work",
+        "rdf:range": "language",
+        "rdfs:subPropertyOf": {
+            "language of work or name": "[X]'s language is [Y] ."
+        },
+        "example": [
+            [
+                "Coming Home",
+                "French"
+            ],
+            [
+                "The Red Head",
+                "French"
+            ]
+        ],
+        "pattern": "[X] was originally created in [Y] ."
+    },
+    {
+        "id": 41,
+        "rdf:Property": "https://www.wikidata.org/wiki/Property:P534",
+        "rdfs:label": "streak color",
+        "rdfs:domain": "mineral",
+        "rdf:range": "color",
+        "rdfs:subPropertyOf": {
+            "color": "[X]'s color is [Y] ."
+        },
+        "example": [
+            [
+                "graphite",
+                "black"
+            ],
+            [
+                "diamond",
+                "white"
+            ]
+        ],
+        "pattern": "[X]'s streak color is [Y] ."
+    },
+    
+    {
+        "id": 42,
+        "rdf:Property": "https://www.wikidata.org/wiki/Property:P4100",
+        "rdfs:label": "parliamentary group",
+        "rdfs:domain": "person",
+        "rdf:range": "political party",
+        "rdfs:subPropertyOf": {
+            "affiliation":"[X] is affiliated with [Y] .",
+            "member of":"[X] is member of [Y] .",
+            "part of":"[X] is part of [Y] ."
+        },
+        "example": [
+            [
+                "Iiris Suomela",
+                "Green Parliamentary Group"
+            ],
+            [
+                "Matteo Renzi",
+                "Italia Viva"
+            ]
+        ],
+        "pattern": "[X] belongs to the party [Y] ."
+    },
+    {
+        "id": 43,
+        "rdf:Property": [
+            "https://www.wikidata.org/wiki/Property:P112",
+            "https://dbpedia.org/ontology/foundedBy"
+        ],
+        "rdfs:label": "founded by",
+        "rdfs:domain": "organisation",
+        "rdf:range": "person",
+        "rdfs:subPropertyOf": {
+            "creator": "[X] is created by [Y] ."
+        },
+        "example": [
+            [
+                "Apple Inc.",
+                "Steve Jobs"
+            ],
+            [
+                "Wikimedia Foundation",
+                "Jimmy Wales"
+            ],
+            [
+                "Apple Inc.",
+                "Steve Wozniak"
+            ],
+            [
+                "Apple Inc.",
+                "Ronald Wayne"
+            ]
+        ],
+        "pattern": "[X] was founded by [Y] ."
+    },
+    {
+        "id": 44,
+        "rdf:Property": "https://www.wikidata.org/wiki/Property:P937",
+        "rdfs:label": "work location",
+        "rdfs:domain": "person",
+        "rdf:range": "place",
+        "rdfs:subPropertyOf": {
+            "location": "[X] is located in [Y] .",
+            "significant place":"[X]'s significant place is [Y] ."
+        },
+        "example": [
+            [
+                "Filippo Brunelleschi",
+                "Rome"
+            ],
+            [
+                "Filippo Brunelleschi",
+                "Florence"
+            ],
+            [
+                "Joseph Stalin",
+                "Moscow"
+            ],
+            [
+                "Joseph Stalin",
+                "Saint Petersburg"
+            ]
+        ],
+        "pattern": "[X] used to work in [Y] ."
+    },
+    {
+        "id": 45,
+        "rdf:Property": "https://www.wikidata.org/wiki/Property:P1625",
+        "rdfs:label": "has melody",
+        "rdfs:domain": "work",
+        "rdf:range": "musical work",
+        "rdfs:subPropertyOf": {
+            "references work, tradition or theory":"[X] references [Y] ."
+        },
+        "example": [
+            [
+                "Twinkle, Twinkle, Little Star",
+                "Ah! vous dirais-je, Maman"
+            ],
+            [
+                "1812 Overture",
+                "La Marseillaise"
+            ],
+            [
+                "1812 Overture",
+                "God Save the Tsar!"
+            ]
+        ],
+        "pattern": "[X] has the melody of [Y] ."
+    },
+    {
+        "id": 46,
+        "rdf:Property": "https://www.wikidata.org/wiki/Property:P4913",
+        "rdfs:label": "dialect of",
+        "rdfs:domain": "language",
+        "rdf:range": "language",
+        "rdfs:subPropertyOf": {
+            "derivative work": "[X] is derived from [Y] ."
+        },
+        "example": [
+            [
+                "Torne dialect",
+                "Northern Sami"
+            ],
+            [
+                "Mexican Spanish",
+                "Spanish"
+            ]
+        ],
+        "pattern": "[X] is a dialect of [Y] ."
+    },
+    {
+        "id": 47,
+        "rdf:Property": [
+            "https://www.wikidata.org/wiki/Property:P452",
+            "https://dbpedia.org/ontology/industry"
+        ],
+        "rdfs:label": "industry",
+        "rdfs:domain": "company",
+        "rdf:range": null,
+        "rdfs:subPropertyOf": {
+            "part of":"[X] is part of [Y] ."
+        },
+        "example": [
+            [
+                "IBM",
+                "computer hardware"
+            ],
+            [
+                "IBM",
+                "software industry"
+            ],
+            [
+                "IBM",
+                "information technology consulting"
+            ],
+            [
+                "Red Hat",
+                "software industry"
+            ],
+            [
+                "IBM",
+                "IT service management"
+            ],
+            [
+                "IBM",
+                "information technology"
+            ]
+        ],
+        "pattern": "[X]'s specific industry is [Y] ."
+    },
+    {
+        "id": 48,
+        "rdf:Property": "https://www.wikidata.org/wiki/Property:P991",
+        "rdfs:label": "successful candidate",
+        "rdfs:domain": "election",
+        "rdf:range": "person",
+        "rdfs:subPropertyOf": {
+            "winner": "[X]'s winner is [Y] .",
+            "candidate": "[X]'s candidate is [Y] .",
+            "participant":"[X]'s participant is [Y] .",
+            "significant person": "[X]'s significant person is [Y] ."
+        },
+        "example": [
+            [
+                "2000 United States presidential election",
+                "George W. Bush"
+            ]
+        ],
+        "pattern": "[X]'s successful candidate is [Y] ."
+    },
+    {
+        "id": 49,
+        "rdf:Property": "https://www.wikidata.org/wiki/Property:P115",
+        "rdfs:label": "home venue",
+        "rdfs:domain": "sports team",
+        "rdf:range": "architectural structure",
+        "rdfs:subPropertyOf": {
+            "location":"[X] is located in [Y] ."
+        },
+        "example": [
+            [
+                "FC Cincinnati",
+                "TQL Stadium"
+            ],
+            [
+                "FC Bayern Munich",
+                "Allianz Arena"
+            ],
+            [
+                "Manchester United F.C.",
+                "Old Trafford"
+            ],
+            [
+                "Galatasaray S.K.",
+                "nef Stadium"
+            ],
+            [
+                "SC DHfK Leipzig",
+                "Arena Leipzig"
+            ]
+        ],
+        "pattern": "[X]'s home stadium is [Y] ."
+    },
+    {
+        "id": 50,
+        "rdf:Property": [
+            "https://www.wikidata.org/wiki/Property:P200",
+            "http://dbpedia.org/ontology/inflow"
+        ],
+        "rdfs:label": "inflows",
+        "rdfs:domain": "body of water",
+        "rdf:range": "body of water",
+        "rdfs:subPropertyOf": null,
+        "example": [
+            [
+                "Lake Geneva",
+                "Boiron de Morges"
+            ],
+            [
+                "Lake Baikal",
+                "Kultuchnaya"
+            ],
+            [
+                "Lake Geneva",
+                "Morges"
+            ],
+            [
+                "Lake Geneva",
+                "Tinière"
+            ],
+            [
+                "Lake Baikal",
+                "Pokhabikha"
+            ],
+            [
+                "Lake Baikal",
+                "Selenga"
+            ],
+            [
+                "Lake Geneva",
+                "Eau Noire"
+            ],
+            [
+                "Lake Constance",
+                "Rhine"
+            ],
+            [
+                "Caspian Sea",
+                "Shuraozen"
+            ],
+            [
+                "Lake Geneva",
+                "Dranse"
+            ],
+            [
+                "Lake Geneva",
+                "Hermance"
+            ],
+            [
+                "Lake Constance",
+                "Dornbirner Ach"
+            ],
+            [
+                "Lake Baikal",
+                "Tompuda"
+            ],
+            [
+                "Lake Geneva",
+                "Boiron de Nyon"
+            ],
+            [
+                "Caspian Sea",
+                "Sefid Rud"
+            ],
+            [
+                "Lake Constance",
+                "Brunnisach"
+            ],
+            [
+                "Lake Constance",
+                "Rotach"
+            ],
+            [
+                "Lake Geneva",
+                "Lutrive"
+            ],
+            [
+                "Lake Baikal",
+                "Enkhaluk"
+            ],
+            [
+                "Lake Geneva",
+                "Redon"
+            ],
+            [
+                "Lake Baikal",
+                "Bezymyannaya"
+            ],
+            [
+                "Lake Baikal",
+                "Turka"
+            ],
+            [
+                "Lake Constance",
+                "Argen"
+            ],
+            [
+                "Lake Baikal",
+                "Utulik"
+            ],
+            [
+                "Caspian Sea",
+                "Kuma"
+            ],
+            [
+                "Lake Geneva",
+                "Eau Froide"
+            ],
+            [
+                "Caspian Sea",
+                "Qusar River"
+            ],
+            [
+                "Caspian Sea",
+                "Bolgarchay River"
+            ],
+            [
+                "Lake Geneva",
+                "Asse"
+            ],
+            [
+                "Lake Baikal",
+                "Upper Angara"
+            ],
+            [
+                "Caspian Sea",
+                "Astarachay"
+            ],
+            [
+                "Lake Baikal",
+                "Kichera"
+            ],
+            [
+                "Lake Geneva",
+                "Champaflon"
+            ],
+            [
+                "Lake Geneva",
+                "Venoge"
+            ],
+            [
+                "Lake Geneva",
+                "Rhône"
+            ],
+            [
+                "Lake Baikal",
+                "Babkha"
+            ],
+            [
+                "Lake Constance",
+                "Linzer Aach"
+            ],
+            [
+                "Lake Geneva",
+                "Baye de Montreux"
+            ],
+            [
+                "Lake Constance",
+                "Steinach"
+            ],
+            [
+                "Lake Geneva",
+                "Paudèze"
+            ],
+            [
+                "Caspian Sea",
+                "Sulak"
+            ],
+            [
+                "Lake Baikal",
+                "Barguzin"
+            ],
+            [
+                "Caspian Sea",
+                "Pirsaat River"
+            ],
+            [
+                "Caspian Sea",
+                "Emba River"
+            ],
+            [
+                "Caspian Sea",
+                "Ulluchay"
+            ],
+            [
+                "Lake Geneva",
+                "Vuachère"
+            ],
+            [
+                "Lake Baikal",
+                "Slyudyanka"
+            ],
+            [
+                "Lake Constance",
+                "Leiblach"
+            ],
+            [
+                "Lake Baikal",
+                "Khara-Murin"
+            ],
+            [
+                "Lake Constance",
+                "Goldach"
+            ],
+            [
+                "Lake Geneva",
+                "Aubonne"
+            ],
+            [
+                "Lake Constance",
+                "Schussen"
+            ],
+            [
+                "Caspian Sea",
+                "Rubas"
+            ],
+            [
+                "Lake Constance",
+                "Stockacher Aach"
+            ],
+            [
+                "Caspian Sea",
+                "Samur"
+            ],
+            [
+                "Lake Geneva",
+                "Morge"
+            ],
+            [
+                "Lake Geneva",
+                "Baye de Clarens"
+            ],
+            [
+                "Lake Baikal",
+                "Kika"
+            ],
+            [
+                "Caspian Sea",
+                "Gorganrud"
+            ],
+            [
+                "Lake Baikal",
+                "Snezhnaya"
+            ],
+            [
+                "Lake Baikal",
+                "Davsha"
+            ],
+            [
+                "Caspian Sea",
+                "Terek"
+            ],
+            [
+                "Lake Baikal",
+                "Tyya"
+            ],
+            [
+                "Lake Geneva",
+                "Versoix"
+            ],
+            [
+                "Caspian Sea",
+                "Volga"
+            ],
+            [
+                "Lake Constance",
+                "Bregenzer Ach"
+            ],
+            [
+                "Lake Geneva",
+                "Forestay"
+            ],
+            [
+                "Caspian Sea",
+                "Atrek River"
+            ],
+            [
+                "Lake Baikal",
+                "Sarma"
+            ],
+            [
+                "Caspian Sea",
+                "Sumgayit River"
+            ],
+            [
+                "Lake Geneva",
+                "Bief"
+            ],
+            [
+                "Caspian Sea",
+                "Kura"
+            ],
+            [
+                "Lake Baikal",
+                "Solzan"
+            ],
+            [
+                "Lake Constance",
+                "Alter Rhein"
+            ],
+            [
+                "Lake Baikal",
+                "Krestovka"
+            ],
+            [
+                "Lake Geneva",
+                "Flon"
+            ],
+            [
+                "Lake Constance",
+                "Alpine Rhine"
+            ],
+            [
+                "Lake Geneva",
+                "Veveyse River"
+            ],
+            [
+                "Caspian Sea",
+                "Ural River"
+            ],
+            [
+                "Lake Geneva",
+                "Promenthouse"
+            ],
+            [
+                "Lake Geneva",
+                "Chamberonne"
+            ],
+            [
+                "Lake Constance",
+                "Lipbach"
+            ],
+            [
+                "Lake Constance",
+                "Aach"
+            ]
+        ],
+        "pattern": "[X] inflows [Y] ."
+    },
+    {
+        "id": 51,
+        "rdf:Property": "https://www.wikidata.org/wiki/Property:P1923",
+        "rdfs:label": "participating team",
+        "rdfs:domain": "sports event",
+        "rdf:range": "sports team",
+        "rdfs:subPropertyOf": {
+            "participant": "[X]'s participant is [Y] ."
+        },
+        "example": [
+            [
+                "2014 FIFA World Cup Final",
+                "Argentina national football team"
+            ],
+            [
+                "2014 FIFA World Cup Final",
+                "Germany national association football team"
+            ]
+        ],
+        "pattern": "[X]'s participating teams contain [Y] ."
+    },
+    {
+        "id": 52,
+        "rdf:Property": "https://www.wikidata.org/wiki/Property:P449",
+        "rdfs:label": "original broadcaster",
+        "rdfs:domain": "work",
+        "rdf:range": "broadcaster",
+        "rdfs:subPropertyOf": null,
+        "example": [
+            [
+                "Valley of the Wolves",
+                "Show TV"
+            ],
+            [
+                "A Very Secret Service",
+                "Arte"
+            ],
+            [
+                "The Simpsons",
+                "Fox Broadcasting Company"
+            ]
+        ],
+        "pattern": "[X] originally aired on [Y] ."
+    }
+]

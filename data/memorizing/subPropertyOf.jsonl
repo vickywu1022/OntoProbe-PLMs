@@ -1,0 +1,59 @@
+{"uuu": {"child": "[X]'s child is [Y] ."}, "xxx": {"relative": "[X]'s relative is [Y] .", "significant person": "[X]'s significant person is [Y] ."}}
+{"uuu": {"presenter": "[X] is hosted by [Y] ."}, "xxx": {"cast member": "[X]'s cast member is [Y] .", "performer": "[X]'s performer is [Y] .", "contributor to the creative work or subject": "[X]'s contributor is [Y] .", "participant": "[X]'s participant is [Y] .", "significant person": "[X]'s significant person is [Y] ."}}
+{"uuu": {"relative": "[X]'s relative is [Y] ."}, "xxx": {"significant person": "[X]'s significant person is [Y] ."}}
+{"uuu": {"has subsidiary": "[X]'s subsidiary is [Y] ."}, "xxx": {"owner of": "[X] is the owner of [Y] .", "has parts": "[X] has part [Y] ."}}
+{"uuu": {"place of death": "[X] died in [Y] ."}, "xxx": {"location": "[X] is located in [Y] ."}}
+{"uuu": {"cast member": "[X] has cast member [Y] ."}, "xxx": {"performer": "[X]'s performer is [Y] .", "contributor to the creative work or subject": "[X]'s contributor is [Y] .", "participant": "[X]'s participant is [Y] .", "significant person": "[X]'s significant person is [Y] ."}}
+{"uuu": {"parent": "[X]'s parent is [Y] ."}, "xxx": {"relative": "[X]'s relative is [Y] .", "significant person": "[X]'s significant person is [Y] ."}}
+{"uuu": {"student": "[X]'s student is [Y] ."}, "xxx": {"significant person": "[X]'s significant person is [Y] ."}}
+{"uuu": {"family": "[X]'s family is [Y] ."}, "xxx": {"affiliation": "[X] is affiliated with [Y] .", "member of": "[X] is member of [Y] .", "part of": "[X] is part of [Y] ."}}
+{"uuu": {"highest point": "[X]'s highest point is [Y] ."}, "xxx": {"has parts": "[X] has part [Y] ."}}
+{"uuu": {"father": "[X]'s father is [Y] ."}, "xxx": {"parent": "[X]'s parent is [Y] .", "relative": "[X]'s relative is [Y] .", "significant person": "[X]'s significant person is [Y] ."}}
+{"uuu": {"killed by": "[X] was killed by [Y] ."}, "xxx": {"significant person": "[X]'s significant person is [Y] ."}}
+{"uuu": {"judge": "[X]'s judge is [Y] ."}, "xxx": {"participant": "[X]'s participant is [Y] .", "significant person": "[X]'s significant person is [Y] ."}}
+{"uuu": {"developer": "[X]'s developer is [Y] ."}, "xxx": {"creator": "[X] is created by [Y] ."}}
+{"uuu": {"military branch": "[X]'s service branch is [Y] ."}, "xxx": {"part of": "[X] is part of [Y] ."}}
+{"uuu": {"place of birth": "[X] was born in [Y] ."}, "xxx": {"location": "[X] is located in [Y] ."}}
+{"uuu": {"author": "[X]'s author is [Y] ."}, "xxx": {"creator": "[X] is created by [Y] ."}}
+{"uuu": {"home port": "[X]'s home port is [Y] ."}, "xxx": {"location": "[X] is located in [Y] .", "significant place": "[X]'s significant place is [Y] ."}}
+{"uuu": {"industry": "[X]'s specific industry is [Y] ."}, "xxx": {"part of": "[X] is part of [Y] ."}}
+{"uuu": {"official language": "[X]'s offical language is [Y] ."}, "xxx": {"language used": "[X]'s widely used language is [Y] ."}}
+{"uuu": {"chief executive officer": "[X]'s chief executive officer is [Y] ."}, "xxx": {"corporate officer": "[X]'s corporate officer is [Y] .", "director / manager": "[X] is managed by [Y] ."}}
+{"uuu": {"successful candidate": "[X]'s successful candidate is [Y] ."}, "xxx": {"winner": "[X]'s winner is [Y] .", "candidate": "[X]'s candidate is [Y] .", "participant": "[X]'s participant is [Y] .", "significant person": "[X]'s significant person is [Y] ."}}
+{"uuu": {"located in the administrative territorial entity": "[X] is located in the administrative territory of [Y] ."}, "xxx": {"location": "[X] is located in [Y] .", "part of": "[X] is part of [Y] ."}}
+{"uuu": {"original language": "[X] was originally created in [Y] ."}, "xxx": {"language of work or name": "[X]'s language is [Y] ."}}
+{"uuu": {"affiliation": "[X] is affiliated with [Y] ."}, "xxx": {"part of": "[X] is part of [Y] ."}}
+{"uuu": {"headquarters location": "[X]'s headquarter is in [Y] ."}, "xxx": {"location": "[X] is located in [Y] .", "significant place": "[X]'s significant place is [Y] ."}}
+{"uuu": {"parliamentary group": "[X] belongs to the party [Y] ."}, "xxx": {"affiliation": "[X] is affiliated with [Y] .", "member of": "[X] is member of [Y] .", "part of": "[X] is part of [Y] ."}}
+{"uuu": {"located in/on physical feature": "[X] is located on landform [Y] ."}, "xxx": {"location": "[X] is located in [Y] .", "part of": "[X] is part of [Y] ."}}
+{"uuu": {"dialect of": "[X] is a dialect of [Y] ."}, "xxx": {"derivative work": "[X] is derived from [Y] ."}}
+{"uuu": {"based on": "[X] is based on [Y] ."}, "xxx": {"references work, tradition or theory": "[X] references [Y] .", "inspired by": "[X] is inspired by [Y] ."}}
+{"uuu": {"head of government": "[X]'s government is headed by [Y] ."}, "xxx": {"chairperson": "[X]'s chairperson is [Y] .", "director / manager": "[X] is managed by [Y] .", "significant person": "[X]'s significant person is [Y] ."}}
+{"uuu": {"streak color": "[X]'s streak color is [Y] ."}, "xxx": {"color": "[X]'s color is [Y] ."}}
+{"uuu": {"composer": "[X]'s composer is [Y] ."}, "xxx": {"creator": "[X] is created by [Y] ."}}
+{"uuu": {"mother": "[X]'s mother is [Y] ."}, "xxx": {"parent": "[X]'s parent is [Y] .", "relative": "[X]'s relative is [Y] .", "significant person": "[X]'s significant person is [Y] ."}}
+{"uuu": {"residence": "[X] lives in [Y] ."}, "xxx": {"location": "[X] is located in [Y] ."}}
+{"uuu": {"founded by": "[X] was founded by [Y] ."}, "xxx": {"creator": "[X] is created by [Y] ."}}
+{"uuu": {"performer": "[X]'s performer is [Y] ."}, "xxx": {"contributor to the creative work or subject": "[X]'s contributor is [Y] .", "participant": "[X]'s participant is [Y] .", "significant person": "[X]'s significant person is [Y] ."}}
+{"uuu": {"home stadium": "[X]'s home stadium is [Y] ."}, "xxx": {"location": "[X] is located in [Y] ."}}
+{"uuu": {"member of sports team": "[X] played for [Y] ."}, "xxx": {"member of": "[X] is member of [Y] .", "affiliation": "[X] is affiliated with [Y] .", "part of": "[X] is part of [Y] ."}}
+{"uuu": {"designed by": "[X] is designed by [Y] ."}, "xxx": {"creator": "[X] is created by [Y] ."}}
+{"uuu": {"conflict": "[X] participated in conflict [Y] ."}, "xxx": {"participant in": "[X] participated in [Y] .", "part of": "[X] is part of [Y] .", "significant event": "[X]'s significant event is [Y] ."}}
+{"uuu": {"doctoral student": "[X]'s doctoral student is [Y] ."}, "xxx": {"student": "[X]'s student is [Y] .", "significant person": "[X]'s significant person is [Y] ."}}
+{"uuu": {"place of burial": "[X] is buried in [Y] ."}, "xxx": {"location": "[X] is located in [Y] ."}}
+{"uuu": {"rector": "[X]'s rector is [Y] ."}, "xxx": {"director / manager": "[X] is managed by [Y] ."}}
+{"uuu": {"has melody": "[X] has the melody of [Y] ."}, "xxx": {"references work, tradition or theory": "[X] references [Y] ."}}
+{"uuu": {"educated at": "[X] is educated at [Y] ."}, "xxx": {"affiliation": "[X] is affiliated with [Y] .", "part of": "[X] is part of [Y] ."}}
+{"uuu": {"work location": "[X] used to work in [Y] ."}, "xxx": {"location": "[X] is located in [Y] .", "significant place": "[X]'s significant place is [Y] ."}}
+{"uuu": {"cast member": "[X]'s cast member is [Y] ."}, "xxx": {"significant person": "[X]'s significant person is [Y] ."}}
+{"uuu": {"curator": "[X]'s curator is [Y] ."}, "xxx": {"significant person": "[X]'s significant person is [Y] ."}}
+{"uuu": {"participant": "[X]'s participant is [Y] ."}, "xxx": {"significant person": "[X]'s significant person is [Y] ."}}
+{"uuu": {"participating team": "[X]'s participating teams contain [Y] ."}, "xxx": {"participant": "[X]'s participant is [Y] ."}}
+{"uuu": {"architect": "[X]'s architect is [Y] ."}, "xxx": {"designed by": "[X] is designed by [Y] .", "creator": "[X] is created by [Y] ."}}
+{"uuu": {"continent": "[X] is located on the continent of [Y] ."}, "xxx": {"located in/on physical feature": "[X] is located on landform [Y] .", "location": "[X] is located in [Y] .", "part of": "[X] is part of [Y] ."}}
+{"uuu": {"spouse": "[X]'s spouse is [Y] ."}, "xxx": {"relative": "[X]'s relative is [Y] .", "significant person": "[X]'s significant person is [Y] ."}}
+{"uuu": {"illustrator": "[X] is illustrated by [Y] ."}, "xxx": {"creator": "[X] is created by [Y] ."}}
+{"uuu": {"contributor": "[X]'s contributor is [Y] ."}, "xxx": {"participant": "[X]'s participant is [Y] .", "significant person": "[X]'s significant person is [Y] ."}}
+{"uuu": {"employer": "[X] is an employer of [Y] ."}, "xxx": {"affiliation": "[X] is affiliated with [Y] .", "part of": "[X] is part of [Y] ."}}
+{"uuu": {"constellation": "[X] is part of constellation [Y] ."}, "xxx": {"part of": "[X] is part of [Y] ."}}
+{"uuu": {"country of citizenship": "[X] is a citizen of [Y] ."}, "xxx": {"country": "[X]'s country is [Y] .", "located in the administrative territorial entity": "[X] is located in the administrative territory of [Y] .", "location": "[X] is located in [Y] .", "part of": "[X] is part of [Y] ."}}
