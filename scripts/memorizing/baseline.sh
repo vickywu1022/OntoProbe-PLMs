@@ -1,0 +1,5 @@
+python main.py --knowledge 'type' --model_class 'baseline' --use_cuda --mode "zs"
+python main.py --knowledge 'subClassOf' --model_class 'baseline' --use_cuda False --mode "zs"
+python main.py --knowledge 'domain' --model_class 'baseline' --use_cuda False --mode "zs"
+python main.py --knowledge 'range' --model_class 'baseline' --use_cuda False --mode "zs"
+python main.py --knowledge 'subPropertyOf' --model_class 'baseline' --use_cuda False --mode "zs"
