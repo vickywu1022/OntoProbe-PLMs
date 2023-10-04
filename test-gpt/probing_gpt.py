@@ -129,12 +129,12 @@ def generate_memorization_data(knowledge):
             cands.append(options)
             # print(prompt)
                 
-        with jsonlines.open("data-gpt/memorization/{}.jsonl".format(knowledge), "w") as f:
+        with jsonlines.open("data-gpt/memorizing/{}.jsonl".format(knowledge), "w") as f:
             for p, g, i in zip(prompts, golds, cands):
                 f.write({"prompt": p, "gold": g, "cands": i})
 
 def generate_reasoning_data(knowledge, rule, index, mode):
-    with jsonlines.open("data-gpt/memorization/{}.jsonl".format(knowledge)) as reader: 
+    with jsonlines.open("data-gpt/memorizing/{}.jsonl".format(knowledge)) as reader: 
         mem_data = list(reader)
         candidates = [d["cands"] for d in mem_data]
 
@@ -237,7 +237,7 @@ if __name__ == "__main__":
 
     for k in ["type", "subClassOf", "subPropertyOf", "domain", "range"]:
         generate_memorization_data(k)
-        acc = test_memorization("data-gpt/{}".format(k))
+        acc = test_memorization("data-gpt/memorizing/{}".format(k))
         print("Acc: ", acc)
 
         with open("Accuracy.txt", "a") as f:
